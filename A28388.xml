@@ -1,0 +1,913 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seven exercises or meditations by which a man may be, in a short time, established in the fear of God, and a good and holy life / by Lewis Blosius ...</title>
+            <author>Blois, Louis de, 1506-1566.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 75 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28388</idno>
+            <idno type="STC">Wing B3204</idno>
+            <idno type="STC">ESTC R33231</idno>
+            <idno type="EEBO-CITATION">13109444</idno>
+            <idno type="OCLC">ocm 13109444</idno>
+            <idno type="VID">97603</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97603)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1543:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seven exercises or meditations by which a man may be, in a short time, established in the fear of God, and a good and holy life / by Lewis Blosius ...</title>
+                  <author>Blois, Louis de, 1506-1566.</author>
+               </titleStmt>
+               <extent>[12], 132 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M. Turner ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Meditations.</term>
+               <term>Spiritual exercises.</term>
+               <term>Devotional exercises.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97603:1"/>
+            <pb facs="tcp:97603:1" rendition="simple:additions"/>
+            <p>SEVEN EXERCISES OR MEDITATIONS By which a MAN May be, in a ſhort time, Eſtabliſhed In the FEAR of GOD, And in a Good and Holy LIFE.</p>
+            <p>By <hi>Lewis Bloſius,</hi> Abbot Of the Holy Order of St. <hi>Benedict.</hi>
+            </p>
+            <p>With other Choice Col<g ref="char:EOLhyphen"/>lections out of the ſame Author.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>M. Turner,</hi> at the <hi>Lamb</hi> in <hi>Holbourn,</hi> 1686.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:97603:2"/>
+            <pb facs="tcp:97603:2"/>
+            <head>THE PREFACE.</head>
+            <p>IF thou wouldſt be con<g ref="char:EOLhyphen"/>firmed in the <hi>Fear of God,</hi> and be eſta<g ref="char:EOLhyphen"/>bliſhed in a <hi>Good and holy Life,</hi> thou muſt fall upon the following <hi>Me<g ref="char:EOLhyphen"/>ditations</hi> with an humble and conſtant Mind, and accompliſh them in order, although thy Nature ſeem to have ſome Repugnancy; which alſo thou muſt not lightly or negligently run over, but muſt ruminate them with leaſure and di<g ref="char:EOLhyphen"/>ligence,
+<pb facs="tcp:97603:3"/>and apply thy whole Soul, and inward endeavours to them, dili<g ref="char:EOLhyphen"/>gently examining and diſ<g ref="char:EOLhyphen"/>cuſſing every particular point, and imprinting it deeply in thy Mind.</p>
+            <p>And indeed thou muſt ſtay in every <hi>Meditation</hi> at leaſt three dayes; and every day (if it may con<g ref="char:EOLhyphen"/>veniently be done) thou muſt employ<note n="*" place="margin">Or 2 or 3 half hours, ac<g ref="char:EOLhyphen"/>cording to thy leaſure &amp; De<g ref="char:EOLhyphen"/>votion.</note> two or three Hours, or ra<g ref="char:EOLhyphen"/>ther more, in the <hi>Exer<g ref="char:EOLhyphen"/>ciſe</hi> of <hi>Meditation;</hi> leav<g ref="char:EOLhyphen"/>ing in the mean time other private and voluntary Ex<g ref="char:EOLhyphen"/>erciſes.</p>
+            <p>Beſides, throughout the
+<pb facs="tcp:97603:3"/>whole day, whether thou walkeſt or ſitteſt ſtill, (un<g ref="char:EOLhyphen"/>leſs when thou oughteſt to think of other things) thou muſt ſtrive to have in thy memory, and to revolve in thy mind thoſe things, which belong to the <hi>Medi<g ref="char:EOLhyphen"/>tation</hi> of that Day.</p>
+            <p>It is not neceſſary nor expedient, that in every hour deputed to the <hi>Exer<g ref="char:EOLhyphen"/>ciſe of Meditation,</hi> thou ſhouldſt diſpatch more Di<g ref="char:EOLhyphen"/>viſions, but it ſhall ſuffice to take one Diviſion, or two or three points to Me<g ref="char:EOLhyphen"/>titate on.</p>
+            <p>When thou ſhalt have ended the <hi>Meditations</hi> af<g ref="char:EOLhyphen"/>ter that manner, thou muſt repeat them again, perſiſt<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:97603:4"/>in every one of them at leaſt two dayes, which repetition being compleated, thou muſt ſtill continue theſe <hi>Exerciſes</hi> for two Months, or longer; but then thou mayeſt aſſume the firſt <hi>Meditation</hi> on <hi>Mondays;</hi> the ſecond on <hi>Tueſdays;</hi> the third on <hi>Wedneſdays;</hi> the fourth on <hi>Thurſdays;</hi> the fifth on <hi>Fridays;</hi> the ſixth on <hi>Saturdays;</hi> the ſeventh on <hi>Sundays:</hi> Afterwards thou muſt diligently exer<g ref="char:EOLhyphen"/>ciſe thy ſelf in the Life and Paſſion of <hi>CHRIST,</hi> according to thy Devoti<g ref="char:EOLhyphen"/>on.</p>
+            <p>Throughout thy whole life thou muſt retain pious
+<pb facs="tcp:97603:4"/>and congruous <hi>Exerciſes,</hi> which may nouriſh in thee thy good purpoſe, and true Devotion. But thou muſt take heed, leſt at any time thou preferr theſe thy <hi>Ex<g ref="char:EOLhyphen"/>erciſes</hi> before <hi>Obedience,</hi> or <hi>Fraternal Charity,</hi> or the <hi>Divine Will.</hi> For it is neceſſary that even in theſe thou learn to deny thy ſelf.</p>
+            <p>If, in this Spiritual Study thou ſhalt feel thy ſelf hard and dry, and ſhalt ſuffer grievous irk<g ref="char:EOLhyphen"/>ſomes of Mind, thou muſt not, for that, leave off thy profitable and wholſom <hi>Ex<g ref="char:EOLhyphen"/>erciſe,</hi> but muſt humbly, to the Honor of God, do what is in thy power. Per<g ref="char:EOLhyphen"/>haps
+<pb facs="tcp:97603:5"/>thou wilt often think thus with thy ſelf: Why do I afflict my Spirit in theſe things, when I might much better, and more to my delight, be converſant in others: But neglecting ſuch kind of thoughts, thou oughteſt to perſevere in what thou haſt begun, and to believe that it is moſt acceptable to God, that thou ſhouldſt be employed in them.</p>
+            <p>If God ſhall give thee the grace of Devotion and Tears, thou must not for this take complacence in thy ſelf, nor eſteem thy ſelf to be any thing, nor deſpiſe others; but muſt alwayes contain thy ſelf
+<pb facs="tcp:97603:5"/>in holy Fear, and humility of Heart, judging thy ſelf unworthy of all the gifts of God.</p>
+            <p>Thou mayeſt in thy <hi>Ex<g ref="char:EOLhyphen"/>erciſe,</hi> by ſpeaking to thy Soul, ſtir up thy ſelf: As if thou ſhouldſt ſay; <hi>O my Soul! Let us watch, and conſider attentively,</hi> &amp;c. Thou muſt alſo con<g ref="char:EOLhyphen"/>vert thy ſelf ſometimes to our Lord God, ſome<g ref="char:EOLhyphen"/>times to the Bleſſed Vir<g ref="char:EOLhyphen"/>gin <hi>Mary,</hi> the Mother of <hi>GOD,</hi> ſometimes to other Citizens of Heaven, and ask thoſe things which make for thy ſouls health.</p>
+            <p>But that thou mayeſt reap plentiful fruit out of theſe <hi>Exerciſes,</hi> thou muſt
+<pb facs="tcp:97603:6"/>diligently abſtain from immoderate joy, from diſ<g ref="char:EOLhyphen"/>ſolution of heart, and from inordinate and vain laugh<g ref="char:EOLhyphen"/>ter. For ſuch things diſ<g ref="char:EOLhyphen"/>ſipate and extinguiſh in<g ref="char:EOLhyphen"/>ward recollection, compunc<g ref="char:EOLhyphen"/>tion, and grace. Thou muſt ſhun alſo (as much as conveniently thou canſt) much talking, and ſeek con<g ref="char:EOLhyphen"/>venient ſolitude.</p>
+            <p>Whilſt thou art Medi<g ref="char:EOLhyphen"/>tating, thou mayeſt kneel, ſit, or ſtand; obſerving that poſture of Body, by which thou ſhalt perceive thy ſelf to be moſt helped. Thou muſt chuſe a ſecret quiet place, and fit for ſuch <hi>Exerciſes.</hi>
+            </p>
+            <p>Before thou beginneſt
+<pb facs="tcp:97603:6"/>thy <hi>Meditation,</hi> having made the ſign of the Croſs, thou ſhalt ſay this ſhort Prayer: <hi>O moſt gracious Lord God, have mercy on me thy poor</hi> Creature <hi>calling upon thee; and grant that every inten<g ref="char:EOLhyphen"/>tion, thought, and acti<g ref="char:EOLhyphen"/>on of mine may be pure<g ref="char:EOLhyphen"/>ly ordained to the obſer<g ref="char:EOLhyphen"/>vance and praiſe of thy divine Majeſty,</hi>
+            </p>
+            <p>Amen.</p>
+            <p>The hour of <hi>Meditation</hi> being ended, Recite our <hi>Lord's Prayer,</hi> with the Angelical <hi>Salutation.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="meditations">
+            <div n="1" type="meditation">
+               <pb facs="tcp:97603:7"/>
+               <pb n="1" facs="tcp:97603:7"/>
+               <head>
+                  <hi>
+                     <hi>Meditation.</hi>
+                  </hi> I. <hi>Of Sins.</hi>
+               </head>
+               <p>
+                  <hi>Divi<g ref="char:EOLhyphen"/>ſion</hi> 1. COnſider how that thy Soul was made by GOD, moſt noble and moſt beautiful: But thou, by living wickedly and careleſly, haſt moſt diſ<g ref="char:EOLhyphen"/>honourably defiled it, and made it vile, ſor<g ref="char:EOLhyphen"/>did, and abominable. For the deformity of <hi>ſin,</hi> is greater than any viſi<g ref="char:EOLhyphen"/>ble deformity.</p>
+               <pb n="2" facs="tcp:97603:8"/>
+               <p>And indeed, ſo great is the enormity of mor<g ref="char:EOLhyphen"/>tal Sin (which deſerves eternal damnation) that by right we ought to depreſs our ſelves for one, even the leaſt ſuch Sin, all the dayes of our life, to the very duſt, even under the brute Beaſts.</p>
+               <p n="2">2. Thou waſt made to this end, that thou ſhouldſt exhibit obſer<g ref="char:EOLhyphen"/>vance and reverence to thy moſt high, moſt wor<g ref="char:EOLhyphen"/>thy, and moſt bounti<g ref="char:EOLhyphen"/>ful Creator, and that thou ſhouldſt love and praiſe Him: but by ſin<g ref="char:EOLhyphen"/>ning, thou haſt averted thy ſelf from Him, and
+<pb n="3" facs="tcp:97603:8"/>converted thy ſelf to the love of vain and periſh<g ref="char:EOLhyphen"/>able Creatures, and ſo haſt made thy ſelf un<g ref="char:EOLhyphen"/>worthy of His favour; but worthy of eternal puniſhments.</p>
+               <p>Wherefore deſerved<g ref="char:EOLhyphen"/>ly thou ſhouldſt ſtrive to bewail thy ſelf, and lament the evils by which thou haſt offended thy Lord God, with in<g ref="char:EOLhyphen"/>ward, or alſo with out<g ref="char:EOLhyphen"/>ward tears.</p>
+               <p n="3">3. Wherefore call to mind, as well as thou canſt, in the bitterneſs of thy Soul, all thy more grievous Sins, which thou haſt committed from thy child-hood, to
+<pb n="4" facs="tcp:97603:9"/>this very moment, by works, words, thoughts, and omiſſions, as if thou wert immediately to make an exact Confeſ<g ref="char:EOLhyphen"/>ſion of them to a <hi>Prieſt.</hi>
+               </p>
+               <p>Yet notwithſtanding, thou muſt not ſtay long upon the Sins of the fleſh, which thou haſt com<g ref="char:EOLhyphen"/>mitted, leſt ſuch an ima<g ref="char:EOLhyphen"/>gination breed in thee ſome harmful delight.</p>
+               <p>Run over diligently year after year, or day after day, or time after time. Call to mind the places in which thou waſt; the perſons with whom thou livedſt; and the ſtate and office which thou hadſt. Ponder how
+<pb n="5" facs="tcp:97603:9"/>often thou haſt repeated thy wicked wayes.</p>
+               <p>Make to thy ſelf as it were a little bundle of all thy Sins, that, as often as thou ſhalt un<g ref="char:EOLhyphen"/>fold it, thou mayſt ea<g ref="char:EOLhyphen"/>ſily ſee the Crimes and Wickedneſſes of thy for<g ref="char:EOLhyphen"/>mer Life; and mayeſt therefore bluſh, be com<g ref="char:EOLhyphen"/>punct, and humbled.</p>
+               <p n="4">4. Exaggerate and ag<g ref="char:EOLhyphen"/>gravate thy Sins, by which thou, a deſpica<g ref="char:EOLhyphen"/>ble and vile Man, haſt diſhonoured and deſpiſed the Creator of Heaven and Earth, and Lord of higheſt Majeſty, and haſt done Him an infinite af<g ref="char:EOLhyphen"/>front; and after a cer<g ref="char:EOLhyphen"/>tain
+<pb n="6" facs="tcp:97603:10"/>manner haſt Cruci<g ref="char:EOLhyphen"/>fied CHRIST again: Who, notwithſtanding, has alwayes moſt boun<g ref="char:EOLhyphen"/>tifully done thee good, and preſerved thee.</p>
+               <p>Pondering well this thy pride, perverſneſs, and ingratitude; hum<g ref="char:EOLhyphen"/>ble, caſt down, and put thy ſelf beneath all the men in the world; yea, beneath all Creatures, e<g ref="char:EOLhyphen"/>ſteeming thy ſelf the vi<g ref="char:EOLhyphen"/>leſt of all, and unwor<g ref="char:EOLhyphen"/>thy, whom the earth ſhould ſuſtain; but wor<g ref="char:EOLhyphen"/>thy, whom hell ſhould ſwallow up, unleſs the Mercy of God hinde<g ref="char:EOLhyphen"/>red.</p>
+               <p n="5">5. Ponder, how much
+<pb n="7" facs="tcp:97603:10"/>God deteſts and puni<g ref="char:EOLhyphen"/>ſhes Sins, ſo that by His terrible and juſt Judg<g ref="char:EOLhyphen"/>ment, He has damned eternally very many, for one ſingle Mortal Sin; as is manifeſt in <hi>Lucifer,</hi> and in the Angels who conſented to him.</p>
+               <p>It is manifeſt alſo, how much God was offended by one only Tranſgreſ<g ref="char:EOLhyphen"/>ſion, which our Firſt Parents <hi>Adam</hi> and <hi>Eve</hi> committed.</p>
+               <p>Now, What ought to have been done with thee, who haſt ſo often offended the moſt holy King of Glory? Deeply conſidering theſe things, accuſe and judge thy ſelf,
+<pb n="8" facs="tcp:97603:11"/>leſt afterwards thou be judged by our Lord.</p>
+               <p>Admire greatly, that all the Elements, and all Creatures have not riſen up againſt thee, to re<g ref="char:EOLhyphen"/>venge upon thee the In<g ref="char:EOLhyphen"/>jury of their Maker. Be aſtoniſhed, that the Earth has not opened it ſelf, to ſwallow thee up alive, and has not tranſmitted thee into Hell; how the holy Angels alſo have been able to endure thy iniquities.</p>
+               <p n="6">6. Finally, grieving with thy very Soul, or deſiring to have Grief, and eyeing attentively JESUS crucified, and His bloody Wounds, cry
+<pb n="9" facs="tcp:97603:11"/>out from thy heart, and ſay theſe, or ſuch like words; Alas! O moſt pittiful Lord <hi>Jeſus Chriſt</hi> my Creator, Redeemer, and Benefactor, I moſt unhappy, have ſo and ſo offended Thee, and con<g ref="char:EOLhyphen"/>temned Thee; thoſe and thoſe Iniquities I have ſo often repeated; I have been ſo diſobedient and ungrateful unto thee. But pardon me, I beſeech thee, for thy immenſe Goodneſs and Charity, with which thou didſt ſuſtain for me thy moſt bitter Paſſion.</p>
+               <p>When thou ſhalt with humility have ſaid theſe or ſuch like words, by
+<pb n="10" facs="tcp:97603:12"/>no means deſpair, but reſuming a full and a<g ref="char:EOLhyphen"/>morous Confidence in God, purpoſe firmly, by his Grace, to mend thy ſelf, and to avoid, as much as ſhall be in thy power, all Sins, not only Mortal, but alſo Venial, and the leaſt.</p>
+            </div>
+            <div n="2" type="meditation">
+               <head>
+                  <hi>
+                     <hi>Meditation.</hi>
+                  </hi> II. <hi>Of Death.</hi>
+               </head>
+               <p>
+                  <hi>Divi<g ref="char:EOLhyphen"/>ſion</hi> 1. TO think on <hi>Death</hi> before<g ref="char:EOLhyphen"/>hand, and diligently to prepare ones ſelf for it, is true wiſdom. And
+<pb n="11" facs="tcp:97603:12"/>thou ſhalt be happy, if alwayes, and every where expecting the Hour of <hi>Death;</hi> thou ſhalt ſo watch, as thou permit<g ref="char:EOLhyphen"/>teſt nothing to reſide in thy Conſcience, which might cauſe thee anxi<g ref="char:EOLhyphen"/>ouſly to fear, although thou wert juſt now to dye.</p>
+               <p>It ſhall be well with thee, if, conſidering how vile thy Fleſh ſhall be, thou art not proud, nor doſt not follow Carnal delights. For, How mi<g ref="char:EOLhyphen"/>ſerable, I pray thee, is thy Fleſh in this Life! How frail! how full of Filthes, which continu<g ref="char:EOLhyphen"/>ally flow with an intol<g ref="char:EOLhyphen"/>lerable
+<pb n="12" facs="tcp:97603:13"/>ſtench through all the paſſages, although outwardly it appear fair and neat! So that thy Body at preſent may rightly be called a ſack of dung, and all kind of filth; but ſhortly it ſhall be an abject, cor<g ref="char:EOLhyphen"/>rupted, and putrid Car<g ref="char:EOLhyphen"/>caſs, and Worms meat.</p>
+               <p n="2">2. Think therefore that thou muſt ſhortly dye, yea, perhaps to day, and muſt go hence into another unknown region; and muſt leave here riches, glory, ho<g ref="char:EOLhyphen"/>nours, pomps, pleaſures, friends, vanities; and all other tranſitory and pe<g ref="char:EOLhyphen"/>riſhable things, which
+<pb n="13" facs="tcp:97603:13"/>thou inordinatly loveſt, or in which thou art now delighted.</p>
+               <p>And indeed every day, every hour, and every moment thou approach<g ref="char:EOLhyphen"/>es near thy death, and the laſt hour of thy life. Therefore compoſe thy ſelf as if thou wert now to dy. Think thy coun<g ref="char:EOLhyphen"/>tenance to wax pale, thy mouth to be contracted, thy ſight to be darkned, thy breath to fail, and the ſweat of death to be now preſent; which te<g ref="char:EOLhyphen"/>ſtifies nature to be over<g ref="char:EOLhyphen"/>come.</p>
+               <p n="3">3. Think, I pray thee, how great a trem<g ref="char:EOLhyphen"/>bling and horror will
+<pb n="14" facs="tcp:97603:14"/>then ſeize thee, and how much thou wilt grieve, if thou ſhalt be unprovi<g ref="char:EOLhyphen"/>ded, becauſe thou haſt not vigorouſly mended thy ſelf.</p>
+               <p>O how ſhort will the time of thy life ſeem to thee? For it will appear like a dream, and a ſha<g ref="char:EOLhyphen"/>dow: when thou ſhalt reflect that eternity is at hand, which ſhall never end.</p>
+               <p>Perhaps thou wilt de<g ref="char:EOLhyphen"/>ſire one little hour to correct thy ſelf, but it is uncertain whether thou ſhalt obtain it.</p>
+               <p>What will thy pride profit thee? what will it profit thee, if thou ſhalt
+<pb n="15" facs="tcp:97603:14"/>now have followed thy own will, and the viti<g ref="char:EOLhyphen"/>ous paſſions of thy mind.</p>
+               <p>O how ſad wilt thou be, when thou ſhalt have loſt thy precious time, or ſpent it unprofitably! How wilt thou be vexed that thou haſt lived ſo wickedly, negligently &amp; remiſsly! That thou waſt ſo greedy to ſee, hear, and talk vain things! That thou haſt not more manfully contemned the Allurements of thy Fleſh and Senſes, that thou haſt been ſo ſlack to the mor<g ref="char:EOLhyphen"/>tification of thy ſelf; and to follow true hu<g ref="char:EOLhyphen"/>mility and charity, and to gather together all
+<pb n="16" facs="tcp:97603:15"/>ſpiritual good things!</p>
+               <p>Now therefore, whilſt thou haſt yet Time, a<g ref="char:EOLhyphen"/>mend thy ſelf, and ſtudy to live better, and more holily.</p>
+               <p n="4">4. Think, when thy Soul, galled with the ſharp prickings of death, ſhall ceaſe to ſee the light of this world, and ſhall begin with its in<g ref="char:EOLhyphen"/>ward eyes to behold the ſtate of the other Life, and thoſe things which before it would not be<g ref="char:EOLhyphen"/>lieve: Cruel Beaſts, and horrible troops of De<g ref="char:EOLhyphen"/>vils will preſent them<g ref="char:EOLhyphen"/>ſelves, by divers means endeavouring to enſnare thy ſame Soul, and ex<g ref="char:EOLhyphen"/>ſpecting
+<pb n="17" facs="tcp:97603:15"/>it to make a prey of it, if it ſhall have departed here with<g ref="char:EOLhyphen"/>out true Repentance.</p>
+               <p>It is therefore good and healthful to Salva<g ref="char:EOLhyphen"/>tion, now to provide for ones ſelf, to cut off bad and unprofitable de<g ref="char:EOLhyphen"/>ſires; to leave vain and worldly things, and to convert ones ſelf wholly to love and ſeek af<g ref="char:EOLhyphen"/>ter Celeſtial and Eternal Goods.</p>
+               <p n="5">5. Conſider, how that thy Soul being gone out of thy Body, it ſhall im<g ref="char:EOLhyphen"/>mediately be preſented before the Tribunal of a Terrible Judge, who cannot judge thee other<g ref="char:EOLhyphen"/>wiſe
+<pb n="16" facs="tcp:97603:16"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:97603:16"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="18" facs="tcp:97603:17"/>than thy works de<g ref="char:EOLhyphen"/>ſerve, ſeeing that He is the Supreme and immu<g ref="char:EOLhyphen"/>table Juſtice.</p>
+               <p>In this particular Judg<g ref="char:EOLhyphen"/>ment thou muſt render a moſt exact Account of thy whole Life, of all thy Time ſpent unpro<g ref="char:EOLhyphen"/>fitably, of all thy Bad Works, of all the Good thou haſt omitted, of all thy Idle Words, and of all thy Thoughts and in<g ref="char:EOLhyphen"/>ordinate Affections.</p>
+               <p>The Devils ſhall pro<g ref="char:EOLhyphen"/>poſe all thy ſins, and all thy negligences, which have not been blotted out by Repentance.</p>
+               <p>Finally, a Sentence ſhall be pronounced by
+<pb n="19" facs="tcp:97603:17"/>the Juſt Judge, concer<g ref="char:EOLhyphen"/>ning thy Soul, which ſhall never be recalled for all eternity: For, where the Tree ſhall fall, whe<g ref="char:EOLhyphen"/>ther towards the <hi>South,</hi> or towards the <hi>North,</hi> there it ſhall for ever remain; and ſhall belong either to eternal Salva<g ref="char:EOLhyphen"/>tion or Damnation.</p>
+               <p n="6">6. It is profitable for thee often to think on theſe things, that thou may'ſt with diligence Correct thy Life, and make thy Peace with God, before that thou ſhalt be called hence. This thou wilt do, if thou be'eſt wiſe.</p>
+               <p>For our Lord God is very merciful, and re<g ref="char:EOLhyphen"/>ceives
+<pb n="20" facs="tcp:97603:18"/>moſt courteouſly all thoſe who timely re<g ref="char:EOLhyphen"/>turn unto Him by true Repentance: Becauſe He wills not the death of a ſinner, but rather that the ſinner ſhould be Con<g ref="char:EOLhyphen"/>verted and Live. <hi>Ezek.</hi> c. 18. &amp; 33.</p>
+            </div>
+            <div n="3" type="meditation">
+               <head>
+                  <hi>
+                     <hi>Meditation.</hi>
+                  </hi> III. <hi>Of the <g ref="char:V">Ʋ</g>niverſal and Laſt Judgment.</hi>
+               </head>
+               <p>
+                  <hi>Divi<g ref="char:EOLhyphen"/>ſion</hi> 1. NOthing can be imagined more dreadful, than that ſtrict and terrible Judg<g ref="char:EOLhyphen"/>ment, by which God will
+<pb n="21" facs="tcp:97603:18"/>judge all men in the Laſt Day.</p>
+               <p>Very terrible Signs ſhall go before this Uni<g ref="char:EOLhyphen"/>verſal Judgment, to wit, a ſtupendious violence of Winds, tumultuous Ri<g ref="char:EOLhyphen"/>ſings of the Sea, unuſu<g ref="char:EOLhyphen"/>al Workings of its Waves, vaſt Earth<g ref="char:EOLhyphen"/>quakes, Fallings of Buil<g ref="char:EOLhyphen"/>dings, knocking together of Mountains, breaking of Rocks, claps of Thun<g ref="char:EOLhyphen"/>der, obſcuration of the Sun, Moon, and Stars; ſad roaring and bellow<g ref="char:EOLhyphen"/>ing of Beaſts, miſerable withering of Men for fear, <hi>&amp;c.</hi>
+               </p>
+               <p>The <hi>Day of Judgment</hi> being now at hand, the
+<pb n="22" facs="tcp:97603:19"/>world ſhall be ſet on Fire by the Divine Power, and ſo the Fire ſhall deſtroy and conſume all brute Animals, and all Men which it ſhall find A<g ref="char:EOLhyphen"/>live.</p>
+               <p>But the Supreme Judge will come in His Majeſty, and with intol<g ref="char:EOLhyphen"/>lerable Anger. That dreadful Judg ſhall come in the Clouds of Hea<g ref="char:EOLhyphen"/>ven, with the Elders of the People, and with thouſands of Angels, with the whole Celeſtial Hoſt.</p>
+               <p>Deſervedly therefore the Prophet <hi>Sophonias,</hi> conſidering that great and bitter Day of our Lord,<note place="margin">Sophon. 1.</note> ſayes,
+<pb n="23" facs="tcp:97603:19"/>
+                  <hi>That Day is a Day of Anger, a Day of Tribu<g ref="char:EOLhyphen"/>lation and Straits, a Day of Calamity and Miſery, a Day of Darkneſs and Gloomineſs, a Day of Clouds and Tempeſtuouſ<g ref="char:EOLhyphen"/>neſs, a Day of a Trum<g ref="char:EOLhyphen"/>pet and Noiſe.</hi>
+               </p>
+               <p>And bleſſed <hi>Hierom,</hi> ſayes, <hi>Whether I eat or drink, or whatſoever elſe I do, the Noiſe of that dreadful Trumpet always ſounds in the ears of my mind, Ariſe ye dead, come to Judgment.</hi>
+               </p>
+               <p n="2">2. Then all Men in a moment, having recei<g ref="char:EOLhyphen"/>ved their Bodies ſhall Riſe again, and our Lord ſhall come down to Judge them.</p>
+               <pb n="24" facs="tcp:97603:20"/>
+               <p>And the Elect indeed agil, beautiful, ſtrong, ſplendid, rejoycing, and ſecure, ſhall meet the Judge; and being Raiſed from the Earth, ſhall ſtand in the Air on his right hand: But the Re<g ref="char:EOLhyphen"/>probate ſhall ſtand upon the Earth, heavier than Lead, infirm, deformed, ſtinking, vile, obſcure, and miſerably trembling, and ſhall be on his left hand.</p>
+               <p>O! what horrid and unimaginable ſtraits ſhall they ſuſtain! With how unutterable a Terror and Fear ſhall they be ſtruc<g ref="char:EOLhyphen"/>ken, when they ſhall ſee above them, an Angry
+<pb n="25" facs="tcp:97603:20"/>and an Inflexible Judge, beneath them the Pit of Hell open, and gaping for them; about them the World on Fire, be<g ref="char:EOLhyphen"/>ſide them a multitude of Devils Accuſing them, within them a guilty and gnawing Conſcience.</p>
+               <p>All their Sins, and all the Secrets of their Hearts ſhall be manifeſt as well to Men as Angels.</p>
+               <p>The Wicked ſhall ſeek to turn away their Face from the angry Counte<g ref="char:EOLhyphen"/>nance of the Judge, but ſhall not be able.</p>
+               <p>Who alſo beholding the glory of the Juſt, <hi>Shall be troubled with a horrid fear, and ſighing
+<pb n="26" facs="tcp:97603:21"/>for anguiſh of Spirit,</hi> ſhall ſay, <hi>Theſe are they whom ſometimes we had in de<g ref="char:EOLhyphen"/>riſion, we fools deemed their Life a madneſs, and their End without honour. Lo how they are reckoned a<g ref="char:EOLhyphen"/>mongſt the Sons of God, and their Lot is amongſt the Saints.</hi> Wiſed. 5.</p>
+               <p n="3">3. Chriſt our Lord will ſhow to all his Wounds ſhining with an ineffable Comlineſs, which truly ſhall bring to the Juſt a moſt ſweet conſolation, but to the Wicked a dreadful confuſion.</p>
+               <p>Chriſt himſelf ſhall then terribly reproach to all the Reprobate and Un<g ref="char:EOLhyphen"/>grateful, the benefits of
+<pb n="27" facs="tcp:97603:21"/>his Incarnation and Paſ<g ref="char:EOLhyphen"/>ſion: And they, with unconceivable grief ſhall acknowledge Him, whom they choſe rather to ſlight and deſpiſe, than to fear and worſhip.</p>
+               <p n="4">4. No Evil ſhall then remain undiſcuſſed or unrevenged; but a ſtrict Examen ſhall be made of all thy works, words, thoughts, and affecti<g ref="char:EOLhyphen"/>ons.</p>
+               <p>The Juſtice of the Judge is not leſs than his Mercy; both is in<g ref="char:EOLhyphen"/>finite. Wherefore thou muſt render an account of all the time granted to thee, of ſpiritual Gifts neglected, of temporal
+<pb n="28" facs="tcp:97603:22"/>Goods ill expended, of Meat, Drink, and Alms, unworthily conſumed.</p>
+               <p>Thou ſhalt render an Account, not only for thy ſelf, but alſo for thoſe, to whom thou haſt at any time ſet a bad ex<g ref="char:EOLhyphen"/>ample, and haſt given an occaſion of doing ill.</p>
+               <p>As alſo, for all Sin<g ref="char:EOLhyphen"/>ners and Pagans, per<g ref="char:EOLhyphen"/>haps a grievous account ſhall be exacted of thee, for that thou haſt not faithfully prayed for their Converſion.</p>
+               <p>But chiefly thou ſhalt give an account for thoſe who were ſpecially com<g ref="char:EOLhyphen"/>mitted to thy care.</p>
+               <p>Innumerable ſins, which
+<pb n="29" facs="tcp:97603:22"/>thou doſt not take no<g ref="char:EOLhyphen"/>tice of, nor acknowledge, ſhall then break out a<g ref="char:EOLhyphen"/>gainſt thee, as it were out of ambuſh, and ſhall be objected unto thee. The leaſt thoughts, and very minute words, which thou ſlighted, and reputed as nothing, ſhall then be diſcuſſed. Hence the <hi>Pſalmiſt</hi> prays, <hi>From my hidden faults cleanſe me O Lord.</hi> Pſal. 18.</p>
+               <p>Attend now that moſt hard and irrevocable Son<g ref="char:EOLhyphen"/>tence of the juſt and an<g ref="char:EOLhyphen"/>gry Judge. For when he ſhall have ſaid to thoſe who ſhall be on his right hand, <hi>Come ye bleſſed of my Father,</hi> &amp;c. He ſhall
+<pb n="30" facs="tcp:97603:23"/>ſay to thoſe who ſhall be on his left hand, <hi>Go ye curſed into eternal fire.</hi> O ſharp word! O word full of all horror and bitterneſs!</p>
+               <p>This Sentence of eter<g ref="char:EOLhyphen"/>nal Damnation being pro<g ref="char:EOLhyphen"/>nounced, immediately the Earth, with a terrible crack, ſhall ſwallow up the wicked; and that fire, with which the world ſhall burn, involving them with darkneſs, and with all the filth and ſtench of the whole world, ſhall thurſt them down into Hell, there to be for e<g ref="char:EOLhyphen"/>ver tormented.</p>
+               <p>But theſe falling down into the depth of Hell,
+<pb n="31" facs="tcp:97603:23"/>the Elect ſhall go up gloriouſly into Heaven, the ſame Reprobate be<g ref="char:EOLhyphen"/>holding that very thing, and, to their greater Ca<g ref="char:EOLhyphen"/>lamity and Miſery, ne<g ref="char:EOLhyphen"/>ver forgetting it.</p>
+               <p>O Deſpiſers of the Law of God! think ſe<g ref="char:EOLhyphen"/>riouſly, I beſeech you, how ſharp it will be, to be in this manner ſepa<g ref="char:EOLhyphen"/>rated from the ſociety of God, and the B. Vir<g ref="char:EOLhyphen"/>gin <hi>Mary,</hi> and all the Citizens of Heaven!</p>
+               <p>When Hell ſhall have received the wicked dam<g ref="char:EOLhyphen"/>ned Wretches, it ſhall be ſhut, and ſtopped at the top like a pot, and no Devil or Man ſhall
+<pb n="32" facs="tcp:97603:24"/>ever come forth thence.</p>
+               <p n="6">6. Thou therefore, that thou mayſt be able to avoid this unexpreſ<g ref="char:EOLhyphen"/>ſible miſery, confuſion, horror, and ſtrait, whilſt the time of Mercy laſts, ſtudy to appeaſe God, and to pleaſe Him.</p>
+               <p>Bewail, and humbly, and ſincerely confeſs thy Sins. Do not hide now from the Vicar of Chriſt, the Prieſt, what thou de<g ref="char:EOLhyphen"/>ſireſt ſhould be hidden in that dreadful Judg<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Correct thy Life with all thy forces. <hi>Depart from evil, and do good.</hi> Pſal. 36. Spend thy time profita<g ref="char:EOLhyphen"/>bly: Fly vain and fool<g ref="char:EOLhyphen"/>iſh
+<pb n="33" facs="tcp:97603:24"/>joyes: Mortify, as much as thou canſt, the vicious Paſſions and Af<g ref="char:EOLhyphen"/>fections of thy Mind.</p>
+               <p>Now wiſely fear, that thou mayſt be then hap<g ref="char:EOLhyphen"/>pily ſecure.</p>
+            </div>
+            <div n="4" type="meditation">
+               <head>
+                  <hi>
+                     <hi>Meditation.</hi>
+                  </hi> IV. <hi>Of the Pains of Hell.</hi>
+               </head>
+               <p>Divi<g ref="char:EOLhyphen"/>ſion 1. AS the Happi<g ref="char:EOLhyphen"/>neſs of the Saints in Heaven is un<g ref="char:EOLhyphen"/>utterable, ſo the Cala<g ref="char:EOLhyphen"/>mity of the Reprobate in Hell, is ineffable and incomprehenſible.</p>
+               <p>Do thou now imagin
+<pb n="34" facs="tcp:97603:25"/>a place under ground, and a horrible Gulf: Be<g ref="char:EOLhyphen"/>hold a vaſt Furnace, all on Fire with Sulphur and Pitch, terribly bur<g ref="char:EOLhyphen"/>ning, dark, ſmoking, ſtinking; full of men and devils.</p>
+               <p>There is everlaſting Horror, and never end<g ref="char:EOLhyphen"/>ing Deſpair; there's Gnaſhing of Teeth, and great Howling, and per<g ref="char:EOLhyphen"/>petual Blaſpheming; there the Damned, for the ſharpneſs of their Pains, bite their Tongues, and Curſe the King of Hea<g ref="char:EOLhyphen"/>ven.</p>
+               <p n="2">2. Conſider that there is ſuch Fire and Heat, and ſuch Cold, as all
+<pb n="35" facs="tcp:97603:25"/>fire and heat, and all cold of this world, in compariſon of that Heat and Cold, is nothing. There they are forced to paſs from intolera<g ref="char:EOLhyphen"/>ble Heat, to intolerable Cold. There they are moſt cruelly boyled and roaſted.</p>
+               <p>They feel moſt bitter Torments in every Senſe, and in every Member: Their Sight continually beholds dreadful &amp; hor<g ref="char:EOLhyphen"/>rid Faces of Devils. Their Hearing continu<g ref="char:EOLhyphen"/>ally perceives the La<g ref="char:EOLhyphen"/>mentations &amp; ſad Cryes of thoſe, who continu<g ref="char:EOLhyphen"/>ally cry out, <hi>Wo, wo, wo! Why were we crea<g ref="char:EOLhyphen"/>ted
+<pb n="36" facs="tcp:97603:26"/>and made? Curſed be God who made us.</hi> This is the ſad Song which is there continually ſung.</p>
+               <p>Imagin there to be Veſſels full of all filthi<g ref="char:EOLhyphen"/>neſs, to wit, Toads, Snakes, putrid Fleſh of dead Carcaſſes, and the filth and dung of Jaques's mix'd together: And the Wicked to be drown<g ref="char:EOLhyphen"/>ed over head and ears in thoſe Veſſels, and againſt their will to ſmell, touch, eat, and drink that ſtink<g ref="char:EOLhyphen"/>ing Mixture. Thou canſt imagin nothing ſo abo<g ref="char:EOLhyphen"/>minable and grievous, but there are there things more abominable &amp; grie<g ref="char:EOLhyphen"/>vous.</p>
+               <pb n="37" facs="tcp:97603:26"/>
+               <p>There every one is puniſhed moſt in thoſe Members, by which he has moſt ſinned.</p>
+               <p n="3">3. There the Devils inſult over thoſe whom they torment, and whom they have, and ſhall for ever have for their com<g ref="char:EOLhyphen"/>panions, ſaying, <hi>Where are now your Riches, where your Honour, where your Glory, where your Plea<g ref="char:EOLhyphen"/>ſure, where your Delights, where your Vanities?</hi>
+               </p>
+               <p>Who is ſo hard and mad, as not to conceive a profitable Fear from the conſideration of theſe things? And, as not to amend his wicked and negligent Life?</p>
+               <pb n="38" facs="tcp:97603:27"/>
+               <p>Aſſuredly whatſoever can torment, whatſoever can cauſe horror and a<g ref="char:EOLhyphen"/>bomination, ſhall for e<g ref="char:EOLhyphen"/>ver be ſeen, heard, and felt in Hell.</p>
+               <p n="4">4. Conſider moreover the inward puniſhment of the damned; for they ſhall be for all eternity deprived of the ſight of God. They ſhall never ſee that bleſſed City, the celeſtial <hi>Jeruſalem.</hi>
+               </p>
+               <p>God has caſt them a<g ref="char:EOLhyphen"/>way, and they are deli<g ref="char:EOLhyphen"/>vered to everlaſting obli<g ref="char:EOLhyphen"/>vion; nor will He ever have mercy on them, <hi>Rom.</hi> 1. For they are veſſels of wrath, in which the rigor and the ſeve<g ref="char:EOLhyphen"/>rity
+<pb n="39" facs="tcp:97603:27"/>of the Divine Juſtice is manifeſted.</p>
+               <p>The Worm of their Conſcience ſhall never dye, but ſhall without ceaſing gnaw and accuſe them, for that for ſo ſhort a joy, and ſo mo<g ref="char:EOLhyphen"/>mentary a pleaſure, they have loſt eternal Hap<g ref="char:EOLhyphen"/>pineſs, and found ever<g ref="char:EOLhyphen"/>laſting Puniſhments.</p>
+               <p>O Ponder! ponder di<g ref="char:EOLhyphen"/>ligently this Eternity of Pains. After a thouſand thouſands of Years their End ſhall be no nearer, becauſe they ſhall never end; but in Hell there ſhall be a perpetual pre<g ref="char:EOLhyphen"/>ſence of all Evils, and a perpetual abſence of all Comfort.</p>
+               <pb n="40" facs="tcp:97603:28"/>
+               <p n="5">5. Lo ſuch a Calami<g ref="char:EOLhyphen"/>ty is the Reward of thoſe who fear not God, and continue in their Sins without true Repentance, until their Departure out of this Life. For there being in Mortal Sin an infinite enormity, by rea<g ref="char:EOLhyphen"/>ſon of the contempt of the immenſe God: Such a Sin (if it be not blot<g ref="char:EOLhyphen"/>ted out by Repentance) ſhall be puniſhed with endleſs Pain.</p>
+               <p>But thou who art yet in the time of Grace, leaving thy Vices and Vanities, without delay return to the Lord thy God, and He will receive thee, cleanſe and heal
+<pb n="41" facs="tcp:97603:28"/>thee. Fear Him, ſerve Him, love Him with all thy heart. For ſo thou ſhalt eſcape thoſe Tor<g ref="char:EOLhyphen"/>ments, which never are ended, never <hi>Intermit<g ref="char:EOLhyphen"/>ted,</hi> never diminiſhed.</p>
+               <p n="6">6. If thou art entred into Religion, thou muſt with all thy might tend to perfection, thou muſt lead an humble, pure, and ſignally Holy Life. But if thou haſt a ſecular Heart and Religion, and liveſt negligently, and ſhall end thy life in ſuch negligence, thou ſhalt be thruſt down into Hell; or certainly ſhalt endure ſuch ſharp, horrid, and long pains in Purgatory,
+<pb n="42" facs="tcp:97603:29"/>as if thou couldeſt now foreſee them, thou wouldeſt dye for fear and horror of them.</p>
+               <p>Wherefore now, if thou beeſt wiſe, thou wilt take diligent care for the ſalvation of thy Soul.</p>
+            </div>
+            <div n="5" type="meditation">
+               <head>
+                  <hi>
+                     <hi>Meditation.</hi>
+                  </hi> V. <hi>Of the Life and Paſſion of Chriſt.</hi>
+               </head>
+               <p>
+                  <hi>Divi<g ref="char:EOLhyphen"/>ſion</hi> 1. THe ſin of the world could not have been taken a<g ref="char:EOLhyphen"/>way, unleſs the Creator of the world aſſuming
+<pb n="43" facs="tcp:97603:29"/>human fleſh, had aboliſh<g ref="char:EOLhyphen"/>ed it with his own blood.</p>
+               <p>Ponder therefore, how our Lord Jeſus, the Son of the living God, the moſt high God, <hi>for the exceſſive love, with which he loved us,</hi> would be con<g ref="char:EOLhyphen"/>ceived by the holy Ghoſt, and be made man in the womb of the B. Virgin <hi>Mary:</hi> that thou load<g ref="char:EOLhyphen"/>ed with thine Iniquities mighteſt not deſcend down into Hell.</p>
+               <p>Thy God was made thy Brother. He was born a tender little In<g ref="char:EOLhyphen"/>fant, in a poor Stable. He was wrapped in vile clouts. He was laid in the Crib of Beaſts. He
+<pb n="44" facs="tcp:97603:30"/>lay upon hay and ſtraw. He was ſuckled by the breaſts of a very poor Mother.</p>
+               <p>He was Circumciſed the eighth day, from his Nativity, and ſhed his Blood.</p>
+               <p>Then he fled into Ae<g ref="char:EOLhyphen"/>gypt.</p>
+               <p>And ſo in his ſacred Infancy, and Childhood, he ſuſtained very many neceſſities, and grievan<g ref="char:EOLhyphen"/>ces, with <hi>Mary</hi> and <hi>Jo<g ref="char:EOLhyphen"/>ſeph.</hi>
+               </p>
+               <p n="2">2. The ſweet Jeſus when he was about thir<g ref="char:EOLhyphen"/>ty years old, humbly re<g ref="char:EOLhyphen"/>ceived Baptiſm from his ſervant <hi>John.</hi>
+               </p>
+               <p>He faſted, was temp<g ref="char:EOLhyphen"/>ted,
+<pb n="45" facs="tcp:97603:30"/>watched, preached, was wearied with jour<g ref="char:EOLhyphen"/>neys and labours.</p>
+               <p>He endured with a moſt meek heart, three and thirty years, hunger, thirſt, cold, heat, and innumerable grievances, and innumerable perſe<g ref="char:EOLhyphen"/>cutions; and at length went to Hieruſalem there to dy for thee.</p>
+               <p n="3">3. The ſweet Jeſus, when upon his knees, he had humbly waſhed the feet of his Diſciples, and had wiped them with a Towell, and had inſtitu<g ref="char:EOLhyphen"/>ted the Venerable Sacra<g ref="char:EOLhyphen"/>ment of the Euchariſt, he went unto Mount Oli<g ref="char:EOLhyphen"/>vet. O how grievous,
+<pb n="46" facs="tcp:97603:31"/>how unworthy, how ſharp things did he ſuffer for thee.</p>
+               <p>For he the Lord of higheſt Majeſty, would tremble and be ſad even unto death. He would be bathed in a ſweat of blood, by reaſon of the vehemency of the angui<g ref="char:EOLhyphen"/>ſhes, with which he was oppreſſed.</p>
+               <p>He reſuſed not to be kis't by the Traytor <hi>Ju<g ref="char:EOLhyphen"/>das,</hi> and as a Theif by wicked men, to be ig<g ref="char:EOLhyphen"/>nominiouſly apprehend<g ref="char:EOLhyphen"/>ed, bound, led away, dragged, puſhed, ſmit<g ref="char:EOLhyphen"/>ten.</p>
+               <p n="4">4. The ſweet Jeſus, the Lord of Lords, vouch<g ref="char:EOLhyphen"/>ſafed
+<pb n="47" facs="tcp:97603:31"/>to receive a cruel buffet from a ſervant of the high-Prieſt.</p>
+               <p>He vouchſafed to be unjuſtly condemned, to be defiled with ſpit<g ref="char:EOLhyphen"/>tle, to be beaten with blows and buffets, to be reproachfully blinded, mocked, and ſcoffed.</p>
+               <p>The moſt meek Lamb, did not in the mean while complain, nor turn away his face, from thoſe who ſpat on him: but teach<g ref="char:EOLhyphen"/>ing us patience, and ex<g ref="char:EOLhyphen"/>hibiting himſelf a pattern of patience, he was dumb <hi>and opened not his mouth.</hi> Iſa. 53. He endured with ſilence, revilings, con<g ref="char:EOLhyphen"/>tumelies, diſgraces, and many injuries.</p>
+               <pb n="48" facs="tcp:97603:32"/>
+               <p n="5">5. Behold, ſweet Je<g ref="char:EOLhyphen"/>ſus, the Holy of Holies, beſpatred with ſpittle, and bound, is lead to <hi>Pilate,</hi> and before him falſely accuſed, but he humbly holds his peace.</p>
+               <p>He is ſent by <hi>Pilate</hi> to <hi>Herod,</hi> and is deſpi<g ref="char:EOLhyphen"/>ſed by <hi>Herod,</hi> and clo<g ref="char:EOLhyphen"/>thed in a white and ridiculous coat, as a fool, and ſo is ſent back to <hi>Pilate.</hi>
+               </p>
+               <p>He is ſtripped in the Pretors Hall, and inhu<g ref="char:EOLhyphen"/>manely tyed to a Pillar, and moſt cruelly torn with whipps. His Vir<g ref="char:EOLhyphen"/>ginal and delicate fleſh was all deformed with bruiſes and wounds, and
+<pb n="49" facs="tcp:97603:32"/>out of it ran on all ſides down upon the earth rivolets of his precious blood.</p>
+               <p>O what, and how ſad a Spectacle was this! <hi>Truly he was wounded for our iniquities, he was bruiſed for our wicked<g ref="char:EOLhyphen"/>neſs, and by his bruiſes we were healed.</hi> Iſa. 53.</p>
+               <p n="6">6. The ſweet Jeſus King of Kings, is Clo<g ref="char:EOLhyphen"/>thed in a Purple Cloak, to his greater re<g ref="char:EOLhyphen"/>proach is Crowned with Thornes, and Woun<g ref="char:EOLhyphen"/>ded. Hence his Pur<g ref="char:EOLhyphen"/>ple Blood flowed down plentifully upon his ami<g ref="char:EOLhyphen"/>able face, and neck.</p>
+               <pb n="50" facs="tcp:97603:33"/>
+               <p>A reed is put in his hand, and he is ſcof<g ref="char:EOLhyphen"/>fingly ſaluted and ado<g ref="char:EOLhyphen"/>red; he is ſtricken with a reed, again he is ſpit upon, and buf<g ref="char:EOLhyphen"/>feted.</p>
+               <p>He is expoſed to be gazed upon by the peo<g ref="char:EOLhyphen"/>ple, with a Crown of Thorns upon his Head, and a Purple Veſtment about his ſhoulders.</p>
+               <p n="7">7. The Sweet Jeſus, the Creator of Heaven and Earth, carrys his own Croſs upon his bruiſed and hurt ſhoul<g ref="char:EOLhyphen"/>ders.</p>
+               <p>He taſtes upon mount Calvary wine mixed with myrrhe and gall.</p>
+               <pb n="51" facs="tcp:97603:33"/>
+               <p>Again he is ſtripped, and his wounds are re<g ref="char:EOLhyphen"/>newed by the pulling off of his Garments.</p>
+               <p>He is unmerciful ſtret<g ref="char:EOLhyphen"/>ched out on the Croſs, and his delicate hands, and undefiled feet are transfixed with hard Nailes, and the Joynts of his moſt Holy Limbs are miſerably looſed.</p>
+               <p>Moſt Pure Blood Flows abundantly out of his ſacred Wounds, as out of ſo many Foun<g ref="char:EOLhyphen"/>tains.</p>
+               <p>Go to, Ponder, and Me<g ref="char:EOLhyphen"/>ditate profoundly theſe things. Take notice of the Bloody and ſaving wounds of thy Redeem<g ref="char:EOLhyphen"/>er,
+<pb n="52" facs="tcp:97603:34"/>Salute and Venerate them with a Devout Heart.</p>
+               <p n="8">8. The Sweet Jeſus endured moſt bitter Torments three Hours, Hanging on the Tree of the Croſs betwixt two Thieves.</p>
+               <p>Lo, he is Mocked, and blaſphemed! but he prays for his blaſphe<g ref="char:EOLhyphen"/>mers, he prays for his Crucifiers.</p>
+               <p>He deeply Compaſ<g ref="char:EOLhyphen"/>ſionates his Sorrowful, and Afflicted Mother ſtanding by, and Cour<g ref="char:EOLhyphen"/>teouſly ſpeaks to her.</p>
+               <p>Burning with a moſt grievous Thirſt, Vinegar is given him to Drink.</p>
+               <pb n="53" facs="tcp:97603:34"/>
+               <p>And forthwith bow<g ref="char:EOLhyphen"/>ing his Venerable Head he gives up the Ghoſt. The good Paſtor lays down his life, for his ſheep. He who gives Life to all things dyes for thee.</p>
+               <p>Afterwards his Side is opened with a Spear, and thence Flows out Blood and Water.</p>
+               <p>Laſt of all, his Imma<g ref="char:EOLhyphen"/>culate Body being taken down from the Croſs, is laid in a Tomb, and buryed.</p>
+               <p n="9">9. Thou haſt here a Spiritual bundle of Myrrhe. See thou lay it diligently between the breaſts of thy Soul.</p>
+               <pb n="54" facs="tcp:97603:35"/>
+               <p>But whilſt thou pon<g ref="char:EOLhyphen"/>dereſt theſe things, be<g ref="char:EOLhyphen"/>hold with thy inward Eyes thy beloved Je<g ref="char:EOLhyphen"/>ſus Chriſt, not as a Pure Man, but Contemplate him as God and Man in all things, which he did and ſuffered.</p>
+               <p>Conſider diligently his deep humility and pa<g ref="char:EOLhyphen"/>tience, his ineſtimable bounty, and moſt Ar<g ref="char:EOLhyphen"/>dent Charity. Admire! be amazed, imitate, com<g ref="char:EOLhyphen"/>paſſionate him, and re<g ref="char:EOLhyphen"/>turn love for love as thou art able.</p>
+               <p>Adore, praiſe and glorifie him, and give him thanks.</p>
+               <p>Conſider, I beſeech
+<pb n="55" facs="tcp:97603:35"/>thee, whether it be fit<g ref="char:EOLhyphen"/>ting, that the Son of the moſt high, the Supream King of Glory, endu<g ref="char:EOLhyphen"/>ring for thee a moſt vile Caitiff, ſo great Ab<g ref="char:EOLhyphen"/>jection and Ignominy, and ſo great labours and torments, thou in the mean time, as if thou wert ſecure, ſhouldſt give thy ſelf to ſports, and jeſts, to vanities and delights; little or no<g ref="char:EOLhyphen"/>thing thinking of him, and living negligently, nay, perhaps wickedly!</p>
+               <p>O! how ill at the laſt ſhall it go with thoſe ungrateful and unhappy hearts, who little eſteem ſo great
+<pb n="56" facs="tcp:97603:36"/>benefits, ſuch enſignes of love, and care not to ruminate the Paſſion of Chriſt! Far be it from thee.</p>
+            </div>
+            <div n="6" type="meditation">
+               <head>
+                  <hi>
+                     <hi>Meditation</hi>
+                  </hi> VI. <hi>Of the Imitation of Chriſt.</hi>
+               </head>
+               <p>
+                  <hi>Divi<g ref="char:EOLhyphen"/>ſion</hi> 1. LO, the Cruel, baſe, and hor<g ref="char:EOLhyphen"/>rible Prince of dark<g ref="char:EOLhyphen"/>neſs the Devil, ſays to thee, hear and follow me, be Proud: and neglecting God do thy own will, love the world, and thoſe things which are in the world, that thou maiſt be Tor<g ref="char:EOLhyphen"/>mented with me in the
+<pb n="57" facs="tcp:97603:36"/>horrible puniſhments of hell.</p>
+               <p>On the contrary ſide, the Mild, Gracious, and Amiable King of Glo<g ref="char:EOLhyphen"/>ry Chriſt, ſays to thee; Hear, and follow me; be humble, and deſpiſing the World, deny thy own proper will. Love God, and thoſe things which are above, that thou maiſt rejoyce with me for ever in Heaven.</p>
+               <p>Here now enquire and weigh diligently with thy ſelf, whether of the two thou oughteſt to hear and follow. Aſſuredly, thy reaſon manifeſtly crys, and ſhews, that thou oughteſt to follow
+<pb n="58" facs="tcp:97603:37"/>the Lord Jeſus, thy moſt ſweet Creator, Redeemer, Lover, and Benefactor.</p>
+               <p>Which being ſo, do thou without delay joyn thy ſelf to Chriſt, and ſay from thy heart: O Lord Jeſus, I deſpiſing the Devil, from hence<g ref="char:EOLhyphen"/>forth purpoſe, thy grace aſſiſting me, to follow, imitate, and love thee my King.</p>
+               <p n="2">2. Wherefore as Je<g ref="char:EOLhyphen"/>ſus Chriſt thy King, the moſt high God, humbled and emptied himſelf by aſſuming human fleſh, and the form of a ſervant, by being born of a poor Virgin, by waſhing his Diſciples feet, by moſt
+<pb n="59" facs="tcp:97603:37"/>perfectly obeying his Fa<g ref="char:EOLhyphen"/>ther and Men: ſo thou muſt purpoſe hereafter to humble thy ſelf under all things for his love.</p>
+               <p>Thou muſt willingly ſubmit thy ſelf to all men; willingly ſerve all.</p>
+               <p>Willingly take the loweſt place, ſeeing thou art not worthy that the earth ſhould ſupport thee, by reaſon of thy ſins and ingratitude.</p>
+               <p>Thou muſt willingly perform vile and abject works, although thou ſhouldeſt therefore ſuffer ſome ſhame before men.</p>
+               <p>Thou muſt willingly &amp; readily obey men in law<g ref="char:EOLhyphen"/>ful and convenient things
+<pb n="60" facs="tcp:97603:38"/>not only thy ſuperiours, but alſo thy equalls, and moreover thy Inferiors.</p>
+               <p n="3">3. Alſo, as thy King Chriſt was alwaies meek and humble of heart, ſo thou oughteſt hereafter to endeavour, that all rough and vitious moti<g ref="char:EOLhyphen"/>ons of Anger be extin<g ref="char:EOLhyphen"/>guiſhed in thee.</p>
+               <p>Thou muſt not be ob<g ref="char:EOLhyphen"/>ſtinate in thy own ſenſe, nor adhere to thy own proper Judgement: but muſt wiſely prefer the judgement and will of o<g ref="char:EOLhyphen"/>thers before thy own judgement and will.</p>
+               <p>Thou muſt from thy heart, repute thy ſelf the moſt unworthy of all
+<pb n="61" facs="tcp:97603:38"/>men, and renounce all vain glory and ſelf com<g ref="char:EOLhyphen"/>placence, as much as thou canſt: acknowledg<g ref="char:EOLhyphen"/>ing thy ſelf of thy ſelf, to be nothing, to be able to do nothing, and to have nothing but ſins and de<g ref="char:EOLhyphen"/>fects.</p>
+               <p>Thou muſt therefore never uſurp to thy ſelf any thing of Gods gifts, but muſt attribute all good things to God, and purely refer them to him.</p>
+               <p>Thou muſt chuſe and love rather not to be known and little eſteem<g ref="char:EOLhyphen"/>ed by men, than to be known or praiſed.</p>
+               <p n="4">4. Alſo as thy King
+<pb n="62" facs="tcp:97603:39"/>Chriſt abſtained from all vanity, pomp, curioſity, and ſuperfluity in meat, drink, clothing, and o<g ref="char:EOLhyphen"/>ther neceſſaries for his life; yea and choſe moſt abject poverty in his Na<g ref="char:EOLhyphen"/>tivity and Death: ſo al<g ref="char:EOLhyphen"/>ſo thou muſt purpoſe hereafter to uſe all things moderately, and to be content with ſimple meat and drink, and ſimple cloathing; removing from thee whatſoever is vain, proud, or altoge<g ref="char:EOLhyphen"/>ther ſuperfluous.</p>
+               <p n="5">5. Again, as thy King Chriſt did not follow ſen<g ref="char:EOLhyphen"/>ſual pleaſures and the de<g ref="char:EOLhyphen"/>lights of the fleſh, but even thirſting drunk Gall
+<pb n="63" facs="tcp:97603:39"/>and Vinegar, and adhe<g ref="char:EOLhyphen"/>red inordinately to no<g ref="char:EOLhyphen"/>thing, and had moſt pleaſing manners and be<g ref="char:EOLhyphen"/>haviour: ſo thou muſt purpoſe hereafter, to re<g ref="char:EOLhyphen"/>ject all impure and ſenſu<g ref="char:EOLhyphen"/>al delights, and impure pleaſures.</p>
+               <p>Thou muſt reſtrain all thy ſenſes, thy ſight, hearing, taſt, and touch<g ref="char:EOLhyphen"/>ing, and alſo thy tongue from all exceſs, vanity, and curioſity.</p>
+               <p>Thou muſt keep thy heart with all diligence, clean and free. Thou muſt not adhere by inor<g ref="char:EOLhyphen"/>dinate affection to any perſon, or to any periſh<g ref="char:EOLhyphen"/>able thing.</p>
+               <pb n="64" facs="tcp:97603:40"/>
+               <p>Thou muſt ſhun immo<g ref="char:EOLhyphen"/>derate laughter, and all lightneſs of manners.</p>
+               <p>Thou muſt prudently decline noxious and ſu<g ref="char:EOLhyphen"/>perfluous converſations of worldly men, and oc<g ref="char:EOLhyphen"/>caſions of ſinning.</p>
+               <p>Thou muſt ſpend the remainder of thy life, profitably to the honor of God, and with Gods aſ<g ref="char:EOLhyphen"/>ſiſtance, endeavour to live ſoberly, chaſtly, purely and piouſly.</p>
+               <p n="6">6. Moreover, as thy King Chriſt endured un<g ref="char:EOLhyphen"/>juſt accuſations of him<g ref="char:EOLhyphen"/>ſelf, revilings, perſecu<g ref="char:EOLhyphen"/>tions, and pains inflicted on him, moſt humbly, moſt patiently, moſt
+<pb n="65" facs="tcp:97603:40"/>gently, and with a mind abſolutely reſigned: ſo thou hereafter muſt pur<g ref="char:EOLhyphen"/>poſe, to endure patient<g ref="char:EOLhyphen"/>ly and gently reproof of thy ſelf, injuries, re<g ref="char:EOLhyphen"/>proaches, contempt, do<g ref="char:EOLhyphen"/>lors, and all croſſes for his love, taking all from his fatherly hand.</p>
+               <p>Thou muſt reſign thy ſelf wholly, as well as thou canſt, to his moſt juſt judgement, and moſt acceptable good pleaſure: Thou muſt I ſay, leave thy ſelf abſolutely to him, permitting him to do with thee, to ſend to thee, to take away from thee, whatſoever he will, and as he will. Thou
+<pb n="66" facs="tcp:97603:41"/>muſt renounce all thy own will.</p>
+               <p>Thou muſt believe thy ſelf to be worthy of all Tribulation, and that no creature can ſo much af<g ref="char:EOLhyphen"/>flict thee, as thou deſerv<g ref="char:EOLhyphen"/>eſt to be afflicted, by reaſon of thy infinite ini<g ref="char:EOLhyphen"/>quities.</p>
+               <p>Thou muſt not lightly complain, that any injury is done thee; nor ſay that thou ſuffereſt any thing unjuſtly: becauſe thou wilt alwaies ſuffer leſs, than thou haſt deſerved.</p>
+               <p n="7">7. Laſtly, as Chriſt thy King, loving all men, and deſiring the Salvati<g ref="char:EOLhyphen"/>on of all, prayed even for his enemies, and makes
+<pb n="67" facs="tcp:97603:41"/>his ſun to riſe upon the good and bad: ſo thou muſt purpoſe hereafter ſincerely to love all men, none excepted, deſire the Salvation of all, and out of charity exhibit thy ſelf, faithful, gra<g ref="char:EOLhyphen"/>cious, and ſweet to all, eſpecially to thy enemies.</p>
+               <p>Thou muſt grieve, that ſo many Souls, ſtamped with the moſt Noble Image of God, do periſh. Thou muſt compaſſionate the afflict<g ref="char:EOLhyphen"/>ed; Thou muſt deſpiſe no body, Judge no body, for raſh judgments great<g ref="char:EOLhyphen"/>ly hinder the grace of God.</p>
+               <p n="8">8. Thou muſt diligent<g ref="char:EOLhyphen"/>ly
+<pb n="68" facs="tcp:97603:42"/>ponder theſe things with thy ſelf. Thou muſt conſider attentively how true it is, when in the foregoing points, Chriſt is ſaid to have done this or that.</p>
+               <p>Thou muſt wiſh from thy heart to be confor<g ref="char:EOLhyphen"/>mable to him, that the Diſciple may be as his Maſter: and the moſt vile Servant muſt not be proud, the ſupream Em<g ref="char:EOLhyphen"/>peror ſhewing humility in all things.</p>
+               <p>Thou muſt examin thy ſelf diligently in the particulars, and ſee whe<g ref="char:EOLhyphen"/>ther thou haſt an abſo<g ref="char:EOLhyphen"/>lute will to fulfil by work, with the Grace of God,
+<pb n="69" facs="tcp:97603:42"/>that which thou readeſt. For thou oughteſt to be ready to this, without any tergiverſation.</p>
+               <p>If not withſtanding thy nature repugning, thou perceiveſt thy ſelf as yet leſs ready, thou muſt not therefore be too pu<g ref="char:EOLhyphen"/>ſillanimous, but muſt do what is in thy power, and have a good will; renounce vices, and re<g ref="char:EOLhyphen"/>ſign thy ſelf as well as thou canſt.</p>
+               <p>Thou muſt pray to God that he would ſtrengthen thee, and give thee thoſe things, which are neceſſary for thy ſal<g ref="char:EOLhyphen"/>vation, and are pleaſing to him.</p>
+               <pb n="70" facs="tcp:97603:43"/>
+               <p>If thou deſire and en<g ref="char:EOLhyphen"/>deavour thus to imitate thy King, thou ſhalt without doubt come to his Heavenly Pallace, and ſhalt obtain everlaſting Life and Glory, with all the Saints.</p>
+            </div>
+            <div n="7" type="meditation">
+               <head>
+                  <hi>
+                     <hi>Meditation</hi>
+                  </hi> 7. <hi>Of the Glory of Heaven.</hi>
+               </head>
+               <p>
+                  <hi>Divi<g ref="char:EOLhyphen"/>ſion</hi> 1. THou muſt i<g ref="char:EOLhyphen"/>magin that Celeſtial Country, to be as it were a moſt ſplen<g ref="char:EOLhyphen"/>ded, glorious, and large City, built of moſt pure gold, and moſt pretious
+<pb n="71" facs="tcp:97603:43"/>Or, if thou hadſt rather imagin it to be a moſt ſpatious Country, and a<g ref="char:EOLhyphen"/>dorned with all the beau<g ref="char:EOLhyphen"/>ty of graſs, flowers, and trees, and filled with all fragrant ſweetneſs and delight: where there is ever a moſt pleaſant ſpring and delightful ſummer. Where there is pleaſantneſs, reſt, qui<g ref="char:EOLhyphen"/>et, and peace ſurpaſſing all ſenſe.</p>
+               <p n="2">2. Thou waſt created for the higheſt and infi<g ref="char:EOLhyphen"/>nite good, which is God. This good thou ſhalt have for the merit of the In<g ref="char:EOLhyphen"/>carnation and Paſſion of Chriſt, and ſhalt enjoy it for all eternity, if here
+<pb n="72" facs="tcp:97603:44"/>thou ſhalt have worſhip<g ref="char:EOLhyphen"/>ed God purely and holily in fear and love.</p>
+               <p>Conſider, that this moſt pleaſant good contains in it ſelf, ſuperabundantly all nobleneſs, pulchri<g ref="char:EOLhyphen"/>tude, comelineſs, ele<g ref="char:EOLhyphen"/>gancy, ſweetneſs, delight, grace and perfection. This when thou ſhalt have obtained, thou ſhalt not be able to deſire any thing more; for thou ſhalt find moſt fully in God, whatſoever may be deſired.</p>
+               <p>It is manifeſt there<g ref="char:EOLhyphen"/>fore, that the Viſion of God is moſt highly plea<g ref="char:EOLhyphen"/>ſant, and incomparably excells all delight imagi<g ref="char:EOLhyphen"/>nable.
+<pb n="73" facs="tcp:97603:44"/>For if naturally thou willingly beholdeſt that which is beautiful, what, and how great joy will it be to thee, clearly to contemplate the divine Eſſence, which is the Fountain whence all beau<g ref="char:EOLhyphen"/>ty flows, and which is infinitely ſplendid, fair, comely, ſweet, and de<g ref="char:EOLhyphen"/>licious?</p>
+               <p>O what does he ſee, what does he hear, what does he ſmell, what does he taſte, what does he feel, who is united to God in Heaven? Truly eye has not ſeen, nor ear heard, nor have the goods and joyes entred into the heart of mortal man,
+<pb n="72" facs="tcp:97603:45"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="73" facs="tcp:97603:45"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="74" facs="tcp:97603:46"/>which God has prepared for his elect, 1 <hi>Cor.</hi> 2.</p>
+               <p n="3">3. In ſeeing God, thou ſhalt ſee all things, and know all things which thou wouldeſt know. Thou ſhalt behold in God the order of the whole Univerſe and all truth.</p>
+               <p>Thou ſhalt enjoy the higheſt good, &amp; ſhalt al<g ref="char:EOLhyphen"/>waies poſſeſs it, and thou ſhalt have in it whatſo<g ref="char:EOLhyphen"/>ever is delightful.</p>
+               <p>Thou ſhalt be ſhined upon by the eternal wiſ<g ref="char:EOLhyphen"/>dom, and ſhalt moſt a<g ref="char:EOLhyphen"/>bundantly taſt the ſweet<g ref="char:EOLhyphen"/>neſs of the divine Peace.</p>
+               <p>Thou ſhalt be wholly abſorpt with the love of
+<pb n="75" facs="tcp:97603:46"/>thy Creator, and ſhalt be transformed into him, and ſhalt alwaies embrace him according to thy de<g ref="char:EOLhyphen"/>ſire, and ſhalt be perfect<g ref="char:EOLhyphen"/>ly united unto him.</p>
+               <p>Thou ſhalt ſee the bright &amp; ever quiet Tri<g ref="char:EOLhyphen"/>nity, and thou ſhalt know how the Son is begotten by the Father, and how the Holy Ghoſt proceeds from the Father and the Son; and how the Father loves the Son, and the Son the Father, and both the Holy Ghoſt. Alſo how the Father and the Son and the Holy Ghoſt are One GOD.</p>
+               <p>Then thou ſhalt moſt perfectly praiſe God, and
+<pb n="76" facs="tcp:97603:47"/>without any Irkſomneſs or Labour. Thou ſhalt praiſe him with all the Bleſſed for ever and ever.</p>
+               <p>Now thou ſhalt never diſpleaſe him more, but ſhalt pleaſe him in all things.</p>
+               <p n="4">4. Thou ſhalt ſee the excellency, and beauty of the humanity of the Son of God, Jeſus Chriſt. O! how wilt thou re<g ref="char:EOLhyphen"/>joyce, beholding the Amiable Jeſus exalted, and Glorious in his Kingdom! Who once in the world was for thy ſake poor, deſpiſed, and afflicted.</p>
+               <p>Thou ſhalt alſo ſee with ineffable joy, the
+<pb n="77" facs="tcp:97603:47"/>Beauty and Glory of the moſt Sweet Mother of God the Virgin <hi>Ma<g ref="char:EOLhyphen"/>ry.</hi>
+               </p>
+               <p>Thou ſhalt behold all the Orders of the An<g ref="char:EOLhyphen"/>gelical Spirits, and how thouſands of thouſands Miniſter to their Crea<g ref="char:EOLhyphen"/>tor, and that the Soul<g ref="char:EOLhyphen"/>diers of God are num<g ref="char:EOLhyphen"/>berleſs.</p>
+               <p>Thou ſhalt know moſt perfectly all the Citi<g ref="char:EOLhyphen"/>zens of Heaven; thou ſhall know their invio<g ref="char:EOLhyphen"/>lable peace, their moſt fervent Charity, their moſt Pleaſant Society, their unſhaken ſecurity, their Inenarrable Beau<g ref="char:EOLhyphen"/>ty, Splendor, and Glo<g ref="char:EOLhyphen"/>ry.
+<pb n="78" facs="tcp:97603:48"/>And all the Bleſ<g ref="char:EOLhyphen"/>ſed are illuſtrious and glorious Princes and Kings.</p>
+               <p>Thou ſhalt have moſt familiar, and perpetual ſociety with Chriſt, and his moſt Lovely, and moſt Gracious Mother <hi>Mary,</hi> and with all the Bleſſed.</p>
+               <p>Aſſuredly all the joys of the world Compa<g ref="char:EOLhyphen"/>red with the leaſt joy of Heaven are meer bitterneſs. The vaſt O<g ref="char:EOLhyphen"/>cean does not ſo much exceed in quantity one ſingle drop of water, as the leaſt pleaſure of the Bleſſed does exceed all the delight and plea<g ref="char:EOLhyphen"/>ſure,
+<pb n="79" facs="tcp:97603:48"/>that ever was in the world.</p>
+               <p>And the joys of Hea<g ref="char:EOLhyphen"/>ven ſhall never be ended, nor ever be diminiſhed: <hi>Nor be interrupted for one ſingle moment for all eternity.</hi>
+               </p>
+               <p n="5">5. Beſides, when thy Soul in the Reſurrection ſhall have received thy glorious body, what joy ſhall it thence receive? For thy very body ſhall be moſt ſplendid, and much more bright than the Sun: it ſhall be moſt ſound, moſt firm, moſt beautiful, moſt pure, odoriferous, incorrupti<g ref="char:EOLhyphen"/>ble, impaſſible, moſt ſub<g ref="char:EOLhyphen"/>til, and very agil.
+<pb n="80" facs="tcp:97603:49"/>Whence thy ſoul with its glorified body, can be whereſoever it will, in a very ſhort ſpace of time: nothing can hin<g ref="char:EOLhyphen"/>der it, nothing put a ſtop or impediment un<g ref="char:EOLhyphen"/>to it.</p>
+               <p>Thou ſhalt alſo (after the Reſurrection) con<g ref="char:EOLhyphen"/>ceive exceeding great Joy from the happy re<g ref="char:EOLhyphen"/>novation of this viſible World: which ſhall be of a far more elegant form than now it is.</p>
+               <p>For whatſoever is now in the World unclean, whatſoever is obſcure and ſhady in the Earth, whatſoever is cold in the Waters, and whatſoever
+<pb n="81" facs="tcp:97603:49"/>has power of burning in the Fire, all that ſhall go down into Hell.</p>
+               <p>The Sun, and Moon, and Starres, ſhall be ſe<g ref="char:EOLhyphen"/>ven times more bright than they are now. Henceforth there ſhall be no Clouds, nor Hail, nor Rain, nor Winds, nor Lightning, nor Thunder. Night ſhall ceaſe to be, a per<g ref="char:EOLhyphen"/>petual Day and Clarity ſucceeding, as well on Earth, as in the Heavens. The Air ſhall have more light than it has now; the Water ſhall be purer than it is now. The Earth ſhall be fair as Gold, and pellucid as
+<pb n="82" facs="tcp:97603:50"/>Cryſtal, and plain as the palm of your hand.</p>
+               <p n="6">6. Such things God has prepared for thoſe who love him. O how un<g ref="char:EOLhyphen"/>happy are they, who for the moſt baſe pleaſures, delights, and vanities of this World, deprive themſelves of ſo great joyes!</p>
+               <p>But thou who readeſt theſe things, aſpire and make haſte to that ne<g ref="char:EOLhyphen"/>ver-fading Glory.</p>
+               <p>Deteſt and fly all Sin, as much as thou canſt: contemn all tranſitory things, love God, love all Men, and ſpend the time profitably which is allotted thee.</p>
+            </div>
+            <div type="conclusion">
+               <pb n="83" facs="tcp:97603:50"/>
+               <head>
+                  <hi>
+                     <hi>The Concluſion.</hi>
+                  </hi> Admonitions concerning the Practice of theſe Meditations.</head>
+               <p n="1">1. HE who exerciſes himſelf in the foregoing Meditations, may, nay, ought in ſome of them, to wit, in thoſe which are more fruitful, ſtay more than three daies: eſpecially during the firſt Exerciſe, which Exerciſe precedes the re<g ref="char:EOLhyphen"/>petition of the ſame Meditations.</p>
+               <p n="2">2. It will be profi<g ref="char:EOLhyphen"/>table,
+<pb n="84" facs="tcp:97603:51"/>when he is to begin any Exerciſe our Meditation, that he read firſt the laſt diviſion of the ſame Meditation, for in it commonly are put ſome things con<g ref="char:EOLhyphen"/>ducing to the right and profitable performance of the ſame Meditation.</p>
+               <p n="3">3. If, whilſt he is exerciſing himſelf he be overcharged with ſleep; let him riſe, and ſtand<g ref="char:EOLhyphen"/>ing or walking continue the Exerciſe. He muſt diligently weigh with himſelf all the points and members of the Diviſions, and freely ſtay in them.</p>
+               <p n="4">4. Moreover, when he
+<pb n="85" facs="tcp:97603:51"/>ſhall perceive himſelf to be ſolicited or allu<g ref="char:EOLhyphen"/>red to follow his vitious paſſions, Concupiſcences, and inclinations, if holy love do not reſtrain him from evil, he muſt forth<g ref="char:EOLhyphen"/>with call to mind death, judgment, and hell, that at leaſt pro<g ref="char:EOLhyphen"/>fitable fear may reſtrain him.</p>
+               <p n="5">5. He muſt very Care<g ref="char:EOLhyphen"/>fully contain and bridle his tongue and ſenſes: for otherwiſe he will never make any progreſs in true vertues.</p>
+               <p n="6">6. That he may more ſpeedily attain to a con<g ref="char:EOLhyphen"/>tempt of himſelf, and true humility, (without
+<pb n="86" facs="tcp:97603:52"/>which no Vertue is of any value) he muſt very often exerciſe himſelf in an attentive and amo<g ref="char:EOLhyphen"/>rous conſideration of the greatneſs of God, and of his Fidelity and Cha<g ref="char:EOLhyphen"/>rity towards himſelf; and on the contrary, in the conſideration of his own littleneſs, and of his unfaithfulneſs and ingra<g ref="char:EOLhyphen"/>titude towards God, he ſhall ſay to God theſe, or ſuch like things.</p>
+               <p>
+                  <hi>O Lord who art thou? and who am I? Thou art the Lord of higheſt majeſty, no<g ref="char:EOLhyphen"/>bility, and dignity; Thou art the Creator of Heaven and Earth; Thou art the Immenſe God, the Omnipo<g ref="char:EOLhyphen"/>potent
+<pb n="87" facs="tcp:97603:52"/>God. But I am a moſt vile worme: I am un<g ref="char:EOLhyphen"/>worthy, whom the Earth ſhould ſuſtain; I am no<g ref="char:EOLhyphen"/>thing, I can do nothing. Thou haſt been ever moſt faithful to me, loving me moſt purely, and beſtowing upon me innumerable bene<g ref="char:EOLhyphen"/>fits; but I, alas! have been moſt unfaithful, and too ungrateful to thee, and am ſo ſtill.</hi> He muſt per<g ref="char:EOLhyphen"/>form the foreſaid exer<g ref="char:EOLhyphen"/>ciſe purely to the honour of God. He muſt in his heart prefer every man, how wicked ſoever, be<g ref="char:EOLhyphen"/>fore himſelf, and deem him better than himſelf.</p>
+               <p n="7">7. He muſt accuſtom himſelf, frequently to re<g ref="char:EOLhyphen"/>call
+<pb n="88" facs="tcp:97603:53"/>and elevate his mind to God; and he muſt do this even amidſt conver<g ref="char:EOLhyphen"/>ſation, and when he is exerciſed in external works; leaſt his mind wandering and forgetful of his purpoſe, and too eſtranged from God, loſe its inward purity, and antient grace. He muſt piouſly attend the amia<g ref="char:EOLhyphen"/>ble preſence of God, knowing that he alwaies beholds all his thoughts, words, and actions. He muſt aſpire after the ſpouſe of his ſoul Jeſus Chriſt, and maintain ſweet colloquies of love with him. By this means he ſhall both paſs this
+<pb n="89" facs="tcp:97603:53"/>life with pleaſure, and after the death of the body, he ſhall come to e<g ref="char:EOLhyphen"/>ternal joyes of immortal life.</p>
+               <closer>Amen.</closer>
+            </div>
+         </div>
+         <div type="text">
+            <head>A ſhort Commemorati<g ref="char:EOLhyphen"/>on of the Life of Chriſt, divided into Articles</head>
+            <div n="1" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> I.</head>
+               <p>THe ſweet JESUS, the Son of the liv<g ref="char:EOLhyphen"/>ing God, the moſt high God, the Creator of Heaven and Earth; for the exceeding Charity
+<pb n="90" facs="tcp:97603:54"/>wherewith he loved me, would be conceived by the Holy Ghoſt and in<g ref="char:EOLhyphen"/>carnate, in the moſt chaſt womb of the Bleſſed Vir<g ref="char:EOLhyphen"/>gin <hi>Mary;</hi> in which alſo he dwelt nine months. My God emptied him<g ref="char:EOLhyphen"/>ſelf, and taking the form of a ſervant, was made my Brother; that he might reduce me to his Heavenly Kingdom. O Ineffable Piety and ineſti<g ref="char:EOLhyphen"/>mable Favor! what ſhall I return to my Lord? I offer and reſign my ſelf wholly to his good plea<g ref="char:EOLhyphen"/>ſure. To him be praiſe, honour, and glory, for ever and ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="2" type="article">
+               <pb n="91" facs="tcp:97603:54"/>
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> II.</head>
+               <p>THe ſweet JESUS, the King of glory, the cauſe of my ſalvati<g ref="char:EOLhyphen"/>on, was born a Tender Infant in a poor ſtable, winter ſharply raging. He was wrapp'd in clouts. He was repoſed in the Crib of Beaſts. He lay upon hay and ſtraw. He was ſuckled by the breaſts of a poor mother. The Son of God endured ſo great Poverty for my ſake. To him be praiſe, honour, and glory, for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="3" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> III.</head>
+               <p>The ſweet JESUS was circumciſed on the eighth day from his
+<pb n="92" facs="tcp:97603:55"/>Birth, his Mother ſadly condoling with him. He was circumciſed, and ſhed his moſt pure Blood for me a moſt vile wretch, and he would be called Jeſus (that is a Saviour) for my comfort. Then he was revealed to the Gentiles, when the Sa<g ref="char:EOLhyphen"/>ges guided by a ſtar to <hi>Bethlehem</hi> to adore the little Infant, and with joy and reverence offered to him gifts, gold, frank<g ref="char:EOLhyphen"/>incenſe, and myrrhe. To him be praiſe, ho<g ref="char:EOLhyphen"/>nour, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="4" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> IV.</head>
+               <p>THe ſweet JESUS was preſented in the
+<pb n="93" facs="tcp:97603:55"/>Temple, and was redeem<g ref="char:EOLhyphen"/>ed with the ſacrifice of the poor. He fled into <hi>Aegypt,</hi> and there endu<g ref="char:EOLhyphen"/>red the incommodities of Poverty with <hi>Mary</hi> and <hi>Joſeph.</hi> He was ſubject and obedient to the ſame <hi>Mary</hi> and <hi>Joſeph.</hi> In his ſacred Infancy, Child<g ref="char:EOLhyphen"/>hood, and Youth, he ſuffered very many ne<g ref="char:EOLhyphen"/>ceſſities and tribulations for my ſalvation. To him be praiſe, honour, &amp; glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="5" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> V.</head>
+               <p>THe ſweet JESUS when he was thirty years old, humbly re<g ref="char:EOLhyphen"/>ceived Baptiſm from his ſervant <hi>John.</hi> He
+<pb n="94" facs="tcp:97603:56"/>faſted forty daies and forty nights, dwelling with the Beaſts in the deſert. The maker of the World, the King of Angels, the Omnipotent God did not diſdain to be tempted by the Devil, for my ſake. To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="6" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> VI.</head>
+               <p>THe ſweet JESUS was wearied with journeys, watchings, and labours for my ſalvation. He preached, wrought miracles, beſtowed fa<g ref="char:EOLhyphen"/>vours. He ſuffered hun<g ref="char:EOLhyphen"/>ger and thirſt, cold and heat. He endured with a moſt meek heart three
+<pb n="95" facs="tcp:97603:56"/>and thirty years, innu<g ref="char:EOLhyphen"/>merable grievances, and innumerable perſecuti<g ref="char:EOLhyphen"/>ons, and at length came to Jeruſalem, that he might dy for me. To him be praiſe, honour, &amp; glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="7" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> VII.</head>
+               <p>THe ſweet JESUS, the King of Kings, and Lord of the higheſt majeſty, girt about him a linnen cloath, and powred water into a Ba<g ref="char:EOLhyphen"/>ſin, and kneeling down, humbly waſhed the feet of his Diſciples, and wiped them with a tow<g ref="char:EOLhyphen"/>ell. O what an exam<g ref="char:EOLhyphen"/>ple did my Lord God
+<pb n="96" facs="tcp:97603:57"/>give me? To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="8" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> VIII.</head>
+               <p>THe ſweet JESUS, out of the immenſe Love with which he moſt tenderly loves us, inſtitu<g ref="char:EOLhyphen"/>ted the venerable Sacra<g ref="char:EOLhyphen"/>ment of the Euchariſt, by a ſtupendious libera<g ref="char:EOLhyphen"/>lity, and a moſt ſweet charity, giving and lea<g ref="char:EOLhyphen"/>ving to us himſelf in it. To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="9" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> IX.</head>
+               <p>THe ſweet JESUS coming into the Gar<g ref="char:EOLhyphen"/>den of <hi>Olivet,</hi> he began to fear, and to be ſad: ſo that he ſaid, My Soul is
+<pb n="97" facs="tcp:97603:57"/>ſad even unto death; he humbly bended his knees upon the ground, and falling upon his face, he prayed to his Father three times; for my ſake being exceſſively af<g ref="char:EOLhyphen"/>flicted, he moſt fully re<g ref="char:EOLhyphen"/>ſign'd himſelf to his Fa<g ref="char:EOLhyphen"/>ther, ſaying: <hi>Father, not my will, but thine be done.</hi> Out of the vehemency of the anguiſhes with which his moſt meek heart was oppreſſed, he ſwet Blood all over his Body, ſo that the drops ran down upon the earth. To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="10" type="article">
+               <pb n="98" facs="tcp:97603:58"/>
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> X.</head>
+               <p>THe ſweet JESUS bur<g ref="char:EOLhyphen"/>ning with an ear<g ref="char:EOLhyphen"/>neſt deſire of redeeming me, and ſuffering for me, went out to meet his Enemies, and moſt cour<g ref="char:EOLhyphen"/>teouſly ſpoke to them. He refuſed not to receive a kiſs from the traytor <hi>Judas,</hi> and ignominiouſly to be apprehended and bound (as a thief) by wicked men, that I might be abſolved from the Bonds of my Sins. To him be Praiſe, Honor, and Glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="11" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XI.</head>
+               <p>THe ſweet JESUS (bound as a Male<g ref="char:EOLhyphen"/>factor)
+<pb n="99" facs="tcp:97603:58"/>was led with diſgrace to the houſe of <hi>Annas,</hi> and thence to the houſe of <hi>Caiphas</hi> the high Prieſt. My gracious and ſweet Lord was dragg'd, puſhed on, beaten, and blaſphem'd, by the Mi<g ref="char:EOLhyphen"/>niſters of the Devil; but he bore all thoſe grievous and unworthy things moſt patiently, for the love of me. To him be Praiſe, Honor, and Glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="12" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XII.</head>
+               <p>THe ſweet JESUS, Lord of Lords, en<g ref="char:EOLhyphen"/>dured moſt modeſtly for my Salvation a reproach<g ref="char:EOLhyphen"/>ful and cruel box on the ear, moſt unjuſtly given
+<pb n="100" facs="tcp:97603:59"/>by a ſervant of the High Prieſt. And how ſhall not I hereafter in return for his Love, patiently endure the affronts that are done me. I beg, I wiſh, I deſire to be ſtrengthened and confir<g ref="char:EOLhyphen"/>med by his Grace. To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="13" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XIII.</head>
+               <p>THe ſweet JESUS was falſly accuſed in the houſe of <hi>Caiphas;</hi> he was unjuſtly condem<g ref="char:EOLhyphen"/>ned; He was fowly ſpit upon, and received hor<g ref="char:EOLhyphen"/>rible blows and buffets; he was ſcornfully blind<g ref="char:EOLhyphen"/>folded, the wicked ſmi<g ref="char:EOLhyphen"/>ting him, and in ſcorn
+<pb n="101" facs="tcp:97603:59"/>ſaying, <hi>Prophecy unto us, O Chriſt, who it was that ſtruck thee.</hi> Ah! that royal and amiable face of his, for me was defi<g ref="char:EOLhyphen"/>led with filthy ſpittle; the moſt meek Lamb in the mean while did not complain: but teaching us Patience, he was dumb and opened not his mouth; he bore in ſi<g ref="char:EOLhyphen"/>lence for my ſake revi<g ref="char:EOLhyphen"/>lings, contumelies, re<g ref="char:EOLhyphen"/>proaches, and all ſorts of injuries. O how ill, and how unworthily was he handled that night! To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="14" type="article">
+               <pb n="102" facs="tcp:97603:60"/>
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XIV.</head>
+               <p>THe ſweet JESUS, the Holy of Holys, and King of Angels, de<g ref="char:EOLhyphen"/>filed with ſpittle, and bound, in the morning was led to <hi>Pilate,</hi> and ſtood before him with a loving countenance, and his eyes down. And when he was falſly ac<g ref="char:EOLhyphen"/>cus'd by the Jewes, he humbly held his peace, anſwering nothing. To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="15" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XV.</head>
+               <p>THe ſweet JESUS (bound as a Thief) was ſent from <hi>Pilate</hi> to <hi>Herod;</hi> who ſeeing him ſilent to his own idle
+<pb n="103" facs="tcp:97603:60"/>queſtions, and to the falſe accuſations of the Jewes, he deſpiſed him, and clothed him in a white and ridiculous Coat as a Fool, and ſo ſent him back to <hi>Pilate.</hi> The amiable Lord, at the plea<g ref="char:EOLhyphen"/>ſure of his Enemies, went backward and forward without contradiction, permitting them to do with him whatſoever they would. O how humble was the Obe<g ref="char:EOLhyphen"/>dience and Patience of the Eternal King! To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="16" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XVI.</head>
+               <p>THe ſweet JESUS was ignominiouſly
+<pb n="104" facs="tcp:97603:61"/>ſtript in the Pretors Hall; he was inhumanly tyed to a Pillar; he was moſt cruelly torn with whips for me; his delicate and Virginall Fleſh was all deformed with blewneſs and wounds: and out of it ran down on all ſides upon the ground ſtreams of precious Blood. O ſharp dolours! O ſad ſpectacle! Indeed he was wounded for my ini<g ref="char:EOLhyphen"/>quities, he was bruiſed for my ſins: and by his wounds I was healed. To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="17" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XVII.</head>
+               <p>THe ſweet JESUS for his greater ig<g ref="char:EOLhyphen"/>nominy,
+<pb n="105" facs="tcp:97603:61"/>was clothed with a Purple Cloak; a Crown of Thorns was preſſed upon his venerable head: and ſo his head being grievouſly wounded, moſt pure Blood abundantly flowed down upon his face and neck. A Reed was put into his hand: and he was ſcoffingly ſa<g ref="char:EOLhyphen"/>luted and adored by the wicked, deriding him, and ſaying, <hi>Hail King of the Jewes;</hi> he was ſmit<g ref="char:EOLhyphen"/>ten with a Reed: he was ſpit upon, and received cruel buffets for my ſake. To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="18" type="article">
+               <pb n="106" facs="tcp:97603:62"/>
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XVIII.</head>
+               <p>THe ſweet JESUS was brought forth by <hi>Pilate,</hi> and ſhown to the furious Jewes, wea<g ref="char:EOLhyphen"/>ring a Crown of Thorns and a Purple Veſtment. But they ask'd with loud clamours, that he might be crucified. His head ſur<g ref="char:EOLhyphen"/>rounded with thorns, his face ſtained with blood and defiled with ſpittle, his body cut with whips, his humble and pleaſant Aſpect did not move them to pitty: I pray God they may move me to a moſt inward Com<g ref="char:EOLhyphen"/>paſſion, and ardent Love of him. To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="19" type="article">
+               <pb n="107" facs="tcp:97603:62"/>
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XIX.</head>
+               <p>THe ſweet JESUS was condemned to dye, by <hi>Pilate,</hi> and delive<g ref="char:EOLhyphen"/>red up to the will of the Jewes. Wherefore they forthwith laid hands on him, and loaded with the Beam of his Croſs, they drew him out of the City. The ſweet Lord carrying his Croſs on his rent ſhoulders, was puſhed forward, beaten, forced to make haſte; the ami<g ref="char:EOLhyphen"/>able Redeemer made the reproach of men and diſ<g ref="char:EOLhyphen"/>dain of the people, hum<g ref="char:EOLhyphen"/>bly went forwards to the place of <hi>Calvary.</hi> O how much did the weight of his Croſs load and af<g ref="char:EOLhyphen"/>flict
+<pb n="108" facs="tcp:97603:63"/>him, but more the weight of my ſins! But he for my ſalvations ſake willingly bore all Labour, and Dolor, and all Confu<g ref="char:EOLhyphen"/>ſion. To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="20" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XX.</head>
+               <p>THe ſweet JESUS be<g ref="char:EOLhyphen"/>ing come weary and out of breath to Mount <hi>Calvary,</hi> he refuſed not to taſte Wine mixed with Myrrhe and Gall, which was offered unto him, that by this bitter drink he might expiate the faults which <hi>I</hi> have con<g ref="char:EOLhyphen"/>tracted by eating and drinking intemperately. O what a kind of refecti<g ref="char:EOLhyphen"/>on
+<pb n="109" facs="tcp:97603:63"/>was that of my Lord! To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="21" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XXI.</head>
+               <p>THe ſweet JESUS was diſgracefully ſtript upon Mount <hi>Cal<g ref="char:EOLhyphen"/>vary:</hi> and by the pulling off of his Clothes his wounds were renewed; the mild and innocent Lamb of God was unmer<g ref="char:EOLhyphen"/>cifully ſtretched out upon the Croſs by cruel men; his delicate hands and undefiled feet were cruel<g ref="char:EOLhyphen"/>ly bored through with bloody Nails; the joynts of his moſt holy Mem<g ref="char:EOLhyphen"/>bers were miſerably loo<g ref="char:EOLhyphen"/>ſed. Purple Blood abun<g ref="char:EOLhyphen"/>dantly flowed out of his
+<pb n="110" facs="tcp:97603:64"/>ſacred wounds, as out of ſo many Fountains. O how hard a bed had the Spouſe of my ſoul, ex<g ref="char:EOLhyphen"/>tended on his Croſs, and nailed to it for my ſake. To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="22" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XXII.</head>
+               <p>THe ſweet JESUS hanging naked upon the ignominious Gibbet of his Croſs, in the mid<g ref="char:EOLhyphen"/>dle, betwixt two Thieves, with his hands and feet transfixed, powred out moſt precious Blood, and ſuffered moſt bitter do<g ref="char:EOLhyphen"/>lours for my ſake; he was ſcoffed at, he was reviled with Blaſphe<g ref="char:EOLhyphen"/>mies: but in the mean
+<pb n="111" facs="tcp:97603:64"/>time he prayed for thoſe who blaſphemed him; he prayed for his Crucifiers, ſaying, <hi>Father, forgive them, for they know not what they do.</hi> To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="23" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XXIII.</head>
+               <p>THe ſweet JESUS hanging upon the Croſs, deſpiſed and wounded, graciouſly pro<g ref="char:EOLhyphen"/>miſed Paradiſe to the penitent Thief; he ten<g ref="char:EOLhyphen"/>derly compaſſionated his Virgin-Mother, ſtanding by the Croſs tranſpierced with the ſword of grief, and commended her to his Diſciple St. <hi>John;</hi> and to the ſame St. <hi>John,</hi>
+                  <pb n="112" facs="tcp:97603:65"/>and to us all, he gave her to be a Mother. To him be praiſe, honor, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="24" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XXIV.</head>
+               <p>THe ſweet JESUS, when he had for me endured immenſe tor<g ref="char:EOLhyphen"/>ments, for three hours, upon the Croſs, and his ſacred blood being pow<g ref="char:EOLhyphen"/>red out, was moſt vehe<g ref="char:EOLhyphen"/>mently a thirſt: he had Vinegar given him to drink; which having taſted, he, the Author of Life to all things, com<g ref="char:EOLhyphen"/>mending himſelf to his Father, and bowing his venerable head, gave up the Ghoſt. To him be praiſe, honour, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="25" type="article">
+               <pb n="113" facs="tcp:97603:65"/>
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XXV.</head>
+               <p>THe ſweet JESUS, as ſoon as he was dead upon the Croſs, forthwith deſcended ac<g ref="char:EOLhyphen"/>cording to his ſoul, out of exceeding Charity in<g ref="char:EOLhyphen"/>to Hell, and delivered the Fathers detained in <hi>Lymbus;</hi> for they at the coming of his ſoul, in<g ref="char:EOLhyphen"/>ſtantly were filled with the Light of Glory, and ſaw the moſt Bleſſed Tri<g ref="char:EOLhyphen"/>nity, ſaw clearly the Di<g ref="char:EOLhyphen"/>vine Eſſence. And this was that ſpiritual Para<g ref="char:EOLhyphen"/>diſe of which our Lord ſaid to the Thief, <hi>To day thou ſhalt be with me in Paradiſe.</hi> To him be praiſe, honour, and glo<g ref="char:EOLhyphen"/>ry,
+<pb n="114" facs="tcp:97603:66"/>for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="26" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XXVI.</head>
+               <p>THe ſweet JESUS, the good ſhepherd, laid down his life for his ſheep. And the right ſide of his dead body was ope<g ref="char:EOLhyphen"/>ned with a Spear, whence did flow forth to us blood and water; his amorous heart was wounded for me. O may this moſt ſweet heart, this pleaſant treaſury of happineſs, be ſalvation and comfort to me in my death: that after death I may be uni<g ref="char:EOLhyphen"/>ted to Jeſus, and contem<g ref="char:EOLhyphen"/>plate him for all Eternity. To him be praiſe, honour and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="27" type="article">
+               <pb n="115" facs="tcp:97603:66"/>
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XXVII.</head>
+               <p>THe ſweet JESUS dyed for me, whoſe immaculate body, when it was taken down from the Croſs, his moſt bleſ<g ref="char:EOLhyphen"/>ſed Mother received it into her Lap, kiſt it, and wept over it; then <hi>Jo<g ref="char:EOLhyphen"/>ſeph</hi> and <hi>Nicodemus</hi> wrap<g ref="char:EOLhyphen"/>ped it in a clean winding ſheet, and laid it in a Se<g ref="char:EOLhyphen"/>pulchre; ſo that Jeſus the immarceſſible Flower of humane dignity, was buried for me. To him be praiſe, honour, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="28" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XXVIII.</head>
+               <p>THe ſweet JESUS com<g ref="char:EOLhyphen"/>ing the third day vic<g ref="char:EOLhyphen"/>torious out of his cloſed
+<pb n="116" facs="tcp:97603:67"/>and ſealed Sepulchre, by a noble triumph, aroſe from the dead: and the clarity of his moſt plea<g ref="char:EOLhyphen"/>ſant countenance being reſtored, he firſt exhi<g ref="char:EOLhyphen"/>larated with a new joy his moſt dear Mother the Virgin <hi>Mary,</hi> then <hi>Mary Magdalen,</hi> and his other friends. To him be praiſe, honour, and glo<g ref="char:EOLhyphen"/>ry for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="29" type="article">
+               <head>
+                  <hi>
+                     <hi>Article</hi>
+                  </hi> XXIX.</head>
+               <p>THe ſweet JESUS, on the Fourtieth day after his Reſurrecti<g ref="char:EOLhyphen"/>on, in the preſence of his Diſciples, filled with in<g ref="char:EOLhyphen"/>effable joy, gloriouſly aſ<g ref="char:EOLhyphen"/>cended into Heaven: and afterwards ſent them the
+<pb n="117" facs="tcp:97603:67"/>Holy Ghoſt. He ſits in Heaven at the right hand of his Father; and thence is to come in Majeſty to Judge the living and the dead. To him be praiſe, honour, and glory for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+         </div>
+         <div type="precepts">
+            <head>Thirteen ſhort Precepts, neceſſary for one who aſpires to a perfect Life.</head>
+            <div n="1" type="precept">
+               <head>
+                  <hi>
+                     <hi>Precept</hi>
+                  </hi> I.</head>
+               <p>FOr the love of Jeſus Chriſt, who ſuffered very ſharp things for thy ſake, renounce the plea<g ref="char:EOLhyphen"/>ſures of thy ſenſes. When thou haſt a mind, and de<g ref="char:EOLhyphen"/>ſires
+<pb n="118" facs="tcp:97603:68"/>to ſee, hear, ſmell, taſte, touch, or ſpeak any thing, remember that thou muſt not obey thy ſenſuality inciting of thee, but Reaſon and God ſpeaking in thee. Yea, even be ready to want ſpiritual delights, accor<g ref="char:EOLhyphen"/>ding to Gods good plea<g ref="char:EOLhyphen"/>ſure and ordination. And when thou art recreated with inward comfort and ſweetneſs, have a care thou do not reſt in it, nor abuſe it to thy own proper pleaſure.</p>
+            </div>
+            <div n="2" type="precept">
+               <head>
+                  <hi>
+                     <hi>Precept</hi>
+                  </hi> II.</head>
+               <p>KEep very diligently thy ſight, hearing, and tongue, that they do not decline to unlawful,
+<pb n="119" facs="tcp:97603:68"/>vain, and unprofitable things. It behoves thee to be vigilant and very wary in thy ſpeech, that thou ſpeak not more words, nor otherwiſe than is convenient. Let thy ſpeech be ſuccinct, plain, and quiet. Care<g ref="char:EOLhyphen"/>fully rule and contain in good order all the Parts of thy Body. Avoid im<g ref="char:EOLhyphen"/>moderate Laughter, and all lightneſs of behaviour.</p>
+            </div>
+            <div n="3" type="precept">
+               <head>
+                  <hi>
+                     <hi>Precept</hi>
+                  </hi> III.</head>
+               <p>DO not adhere to any Creature by inor<g ref="char:EOLhyphen"/>dinate affection, but dye to all periſhable things, and keep thy heart free from them: for in ſuch a death, and in ſuch a
+<pb n="120" facs="tcp:97603:69"/>liberty does lye hid the moſt true and moſt plea<g ref="char:EOLhyphen"/>ſant life.</p>
+            </div>
+            <div n="4" type="precept">
+               <head>
+                  <hi>
+                     <hi>Precept</hi>
+                  </hi> IV.</head>
+               <p>BY an entire abnega<g ref="char:EOLhyphen"/>tion of thy ſelf and reſignation, diligently de<g ref="char:EOLhyphen"/>ſtroy in thee vitious paſ<g ref="char:EOLhyphen"/>ſions and affections, and thy own will and ſelf-ſeeking. But love <hi>dearly</hi> and only the Divine will, and ever wiſh it, and ſub<g ref="char:EOLhyphen"/>mit thy ſelf wholly unto it; ſo that, whatſoever God wills, do thou alſo will. Every where ſeek rather the praiſe and ho<g ref="char:EOLhyphen"/>nour of God than thy own profit.</p>
+            </div>
+            <div n="5" type="precept">
+               <pb n="121" facs="tcp:97603:69"/>
+               <head>
+                  <hi>
+                     <hi>Precept</hi>
+                  </hi> V.</head>
+               <p>IN all things which happen, wiſely re<g ref="char:EOLhyphen"/>gard the providence of God, and ſecurely com<g ref="char:EOLhyphen"/>mit thy ſelf and all thy concerns to the Almigh<g ref="char:EOLhyphen"/>ty; knowing that he has care of thee. Receive as from the hand of God, every adverſity and tri<g ref="char:EOLhyphen"/>bulation (whether inter<g ref="char:EOLhyphen"/>nal or external;) be<g ref="char:EOLhyphen"/>lieving for certain that he has ſent it for thy profit and ſalvation. 1. Then contentedly endure it to the very laſt; giv<g ref="char:EOLhyphen"/>ing thanks to our Lord, and praiſing him, by whoſe permiſſion and or<g ref="char:EOLhyphen"/>der it happened. 2. And
+<pb n="122" facs="tcp:97603:70"/>thou muſt not be trou<g ref="char:EOLhyphen"/>bled for injuries that are done thee, nor impati<g ref="char:EOLhyphen"/>ently complain to men of them. 3. But calling to mind thy own wicked<g ref="char:EOLhyphen"/>neſs and ingratitude, think thy ſelf worthy, whom all men ſhould re<g ref="char:EOLhyphen"/>prehend, chide, con<g ref="char:EOLhyphen"/>temn, vex, deride, &amp; even trample under their feet. 4. Wherefore art thou anxious, and dejected for the words of men, or for the temptations which thou ſuffereſt? Let men think, and ſay of thee what they pleaſe, let the world rage againſt thee, let the devil rage againſt thee, (as much as God
+<pb n="123" facs="tcp:97603:70"/>permits.) 5. Do thou in the mean time humbly and firmly repoſe upon the Almighty, and in ſi<g ref="char:EOLhyphen"/>lence conſerve peace of mind. If thou duely weigheſt, how unworthy and ſharp things, Jeſus Chriſt thy Creator and Redeemer has ſuffered, thou wilt with a ready mind endure all things though never ſo grie<g ref="char:EOLhyphen"/>vous.</p>
+            </div>
+            <div n="6" type="precept">
+               <head>
+                  <hi>
+                     <hi>Precept</hi>
+                  </hi> VI.</head>
+               <p>DEpreſs and put thy ſelf beneath every creature, conſidering thy own vileneſs, and thy own proper nothing. If thou thinkeſt thy ſelf to be any thing, when thou
+<pb n="124" facs="tcp:97603:71"/>art nothing; if thou fooliſhly within thy ſelf magnifies thy own works or exerciſes, thou art indeed very Proud, and ſtinkeſt before God. Whatſoever good thou haſt, it is Gods, not thine. Take heed therefore, leſt thou uſurp that to thyſelf which is Gods, ſee that thou do not thence fool<g ref="char:EOLhyphen"/>iſhly boaſt, and pleaſe thy ſelf, and for that indeed diſpleaſe God. Judge thy ſelf alſo un<g ref="char:EOLhyphen"/>worthy the very leaſt gift of God.</p>
+            </div>
+            <div n="7" type="precept">
+               <head>
+                  <hi>
+                     <hi>Precept</hi>
+                  </hi> VII.</head>
+               <p>WIllingly do the will, and follow the Judgement of another in
+<pb n="125" facs="tcp:97603:71"/>thoſe things which are lawfull, denying thy own will, and forſaking thy own ſentiment. Ever obey moſt readily; be<g ref="char:EOLhyphen"/>cauſe whatſoever is done by obedience, is very grateful to God: on the contrary, he abhorres whatſoever is done by diſobedience.</p>
+            </div>
+            <div n="8" type="precept">
+               <head>
+                  <hi>
+                     <hi>Precept</hi>
+                  </hi> VIII.</head>
+               <p>BE content with a few and plain things, af<g ref="char:EOLhyphen"/>ter the example of our Lord Jeſus, and Holy <hi>Mary</hi> his mother. Do not love vanity in thy apparrel, nor luxuriouſ<g ref="char:EOLhyphen"/>neſs in thy diet. And how ungrateful wouldeſt thou be, if thou ſhouldeſt
+<pb n="126" facs="tcp:97603:72"/>murmur for thy meat or drinks being leſs ſavory or delicate, when for thy ſake Chriſt drunk gall and vinegar! If even ſuch things as ſeem neceſſary are wanting, praiſe God, confide in him, who cannot forſake his ſervants, although ſometimes he may profi<g ref="char:EOLhyphen"/>tably permit them to be pinched with want.</p>
+            </div>
+            <div n="9" type="precept">
+               <head>
+                  <hi>
+                     <hi>Precept</hi>
+                  </hi> IX,</head>
+               <p>SIncerely love all men, as thy brothers and ſiſters, having ſtamped upon them the noble I<g ref="char:EOLhyphen"/>mage of God. Shew a loving and gracious coun<g ref="char:EOLhyphen"/>tenance, and ſpeak kind words to all, and eſpeci<g ref="char:EOLhyphen"/>ally
+<pb n="127" facs="tcp:97603:72"/>to thy enemies and perſecutors, by the ſweet<g ref="char:EOLhyphen"/>neſs of holy charity heal<g ref="char:EOLhyphen"/>ing and extinguiſhing in thee, all bitterneſs of heart. Be ready to help and comfort all. Com<g ref="char:EOLhyphen"/>paſſionate thoſe that are afflicted, and thoſe that ſin. Rejoyce for the ver<g ref="char:EOLhyphen"/>tues of others, as for thy own, and repute the miſery of others as thy own; deeming every one to be thy ſelf.</p>
+            </div>
+            <div n="10" type="precept">
+               <head>
+                  <hi>
+                     <hi>Precept</hi>
+                  </hi> X.</head>
+               <p>DEſpiſe no body. Ba<g ref="char:EOLhyphen"/>niſh out of thy heart with great dili<g ref="char:EOLhyphen"/>gence raſh judgements, and naughty ſuſpitions. Accuſtom thy ſelf to
+<pb n="128" facs="tcp:97603:73"/>think well of all, With a ſimple heart, interpret the ſayings and doings of others to the beſt. Heartily prefer all men before thy ſelf. Believe thy ſelf to be the moſt ungrateful and vileſt of all mankind. Say to thy ſelf, ſay to God, <hi>I am not worthy the earth ſhould ſuſtain me.</hi> O if thou wert wiſe, how willing<g ref="char:EOLhyphen"/>ly would'ſt thou for Gods ſake do the moſt abject works! How cheerfully wouldeſt thou ſerve eve<g ref="char:EOLhyphen"/>ry body! For even Chriſt our Lord took the form of a ſervant, being made man, and waſhed the feet of his diſciples.</p>
+            </div>
+            <div n="11" type="precept">
+               <pb n="129" facs="tcp:97603:73"/>
+               <head>
+                  <hi>
+                     <hi>Precept</hi>
+                  </hi> XI.</head>
+               <p>STudy to pleaſe God, and not men; and deſire rather to be de<g ref="char:EOLhyphen"/>ſpiſed, than to be praiſ<g ref="char:EOLhyphen"/>ed or honoured.</p>
+            </div>
+            <div n="12" type="precept">
+               <head>
+                  <hi>
+                     <hi>Precept</hi>
+                  </hi> XII.</head>
+               <p>HAve pious and holy thoughts, and eve<g ref="char:EOLhyphen"/>ry where take notice of the preſence of God, en<g ref="char:EOLhyphen"/>tertaining ſweet collo<g ref="char:EOLhyphen"/>quies with him, whether thou feeleſt or feeleſt not devotion. To recollect thy ſpirit, and to conſi<g ref="char:EOLhyphen"/>der reverently the pre<g ref="char:EOLhyphen"/>ſence of God, theſe words often repeated may much help thee; <hi>O Lord thou God
+<pb n="130" facs="tcp:97603:74"/>thou art alwaies preſent with me, thou dwellest in the Fund of my Soul.</hi>
+               </p>
+               <closer>Amen.</closer>
+            </div>
+            <div n="13" type="precept">
+               <head>
+                  <hi>
+                     <hi>Precept</hi>
+                  </hi> XIII.</head>
+               <p>WHatſoever is not God, do not greatly care for it, nor deem it much to concern thee; for ſo thou wilt be be able by a holy intro<g ref="char:EOLhyphen"/>verſion with a free mind vacantly to intend to God himſelf. And in<g ref="char:EOLhyphen"/>deed it is the one thing neceſſary; which to ob<g ref="char:EOLhyphen"/>tain thou oughteſt al<g ref="char:EOLhyphen"/>waies to labour, ſtrive, and do what is in thy power; yet ſo that thou
+<pb n="131" facs="tcp:97603:74"/>wholly deſpair of thy ſelf and thy own endea<g ref="char:EOLhyphen"/>vours, and place all thy hope in God alone, in his only Mercy and Good<g ref="char:EOLhyphen"/>neſs, in the Sole Help of his Grace. For with<g ref="char:EOLhyphen"/>out God, thou canſt do nothing but Sin.</p>
+            </div>
+         </div>
+         <div type="text">
+            <head>The Penitent Sinners Con<g ref="char:EOLhyphen"/>fidence in God.</head>
+            <p>GOd never did de<g ref="char:EOLhyphen"/>ſpiſe, nor never will deſpiſe a contrite heart: He never did re<g ref="char:EOLhyphen"/>ject, nor ever will reject thoſe who fly to him by true Repentance. If thou doeſt not ceaſe to riſe, he will not ceaſe to re<g ref="char:EOLhyphen"/>ceive
+<pb n="132" facs="tcp:97603:75"/>thee. Wherefore although thou ſhouldſt fall a hundred times, yea a thouſand times; as of<g ref="char:EOLhyphen"/>ten as thou falleſt, ſo of<g ref="char:EOLhyphen"/>ten riſe again with a Ho<g ref="char:EOLhyphen"/>ly Hope of Pardon; and riſing again, give Thanks to our Lord, that he did not permit thee to fall more grievouſly, or to ly longer in thy Ruin.</p>
+            <p>Thou canſt not more diſhonour God, or do him a greater injury, than if for the multitude, long continuance, or e<g ref="char:EOLhyphen"/>normity of thy ſins thou ſhould'ſt deſpair of his Piety, Mercy and Good<g ref="char:EOLhyphen"/>neſs.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Permiſſu Superiorum.</p>
+            <pb facs="tcp:97603:75"/>
+         </div>
+      </back>
+   </text>
+</TEI>
